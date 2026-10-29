@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:23:35
+version: '1.52'
+environment: staging
+
+service:
+  name: jyfqcwzp
+  port: 3487
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 3
+  quality: excellent
