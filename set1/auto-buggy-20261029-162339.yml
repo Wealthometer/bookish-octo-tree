@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 16:23:39
+version: '1.39'
+environment: production
+
+service:
+  name: yqrsztde
+  port: 3479
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 23
+  retries: 3
+  quality: buggy
