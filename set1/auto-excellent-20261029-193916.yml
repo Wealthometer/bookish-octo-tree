@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 19:39:16
+version: '1.0'
+environment: staging
+
+service:
+  name: cufystwo
+  port: 3183
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 4
+  quality: excellent
