@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 11:56:59
+version: '1.81'
+environment: production
+
+service:
+  name: wihfbpae
+  port: 3709
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 3
+  quality: buggy
