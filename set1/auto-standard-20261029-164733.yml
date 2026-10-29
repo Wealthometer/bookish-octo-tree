@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 16:47:33
+version: '1.56'
+environment: production
+
+service:
+  name: wpeixouf
+  port: 3981
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 3
+  quality: standard
