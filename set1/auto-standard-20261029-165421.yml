@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 16:54:21
+version: '1.92'
+environment: development
+
+service:
+  name: pmenzxoh
+  port: 3736
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 1
+  quality: standard
