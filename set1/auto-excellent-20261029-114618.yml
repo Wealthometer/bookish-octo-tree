@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:46:18
+version: '1.84'
+environment: development
+
+service:
+  name: otdfyrgb
+  port: 3389
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 49
+  retries: 2
+  quality: excellent
