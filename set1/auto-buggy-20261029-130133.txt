@@ -1,0 +1,7 @@
+﻿[0] 13:01:33 - vbpaljt - OK
+[1] 13:01:33 - ptxmi - OK
+[2] 13:01:33 - qlfmuz - OK
+[3] 13:01:33 - bztkaexumfl - SKIPPED
+[4] 13:01:33 - hvilqmrd - PENDING
+[5] 13:01:33 - flrca - OK
+[6] 13:01:33 - olwdg - COMPLETE
