@@ -1,0 +1,11 @@
+﻿[0] 12:55:30 - tvulqswi - OK
+[1] 12:55:30 - sjwmh - OK
+[2] 12:55:30 - hzlwabo - ERROR
+[3] 12:55:30 - zkcvrtlxmd - ERROR
+[4] 12:55:30 - muejyn - OK
+[5] 12:55:30 - jtzfpniwdk - SKIPPED
+[6] 12:55:30 - dvzkxpnlojh - PENDING
+[7] 12:55:30 - xwjgha - SKIPPED
+[8] 12:55:30 - heibmxy - PENDING
+[9] 12:55:30 - pcxhduqitm - SKIPPED
+[10] 12:55:30 - xazpjdhglnm - ERROR
