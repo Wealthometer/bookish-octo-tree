@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 10:14:29
+version: '1.78'
+environment: staging
+
+service:
+  name: jyknatqx
+  port: 3568
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 2
+  quality: buggy
