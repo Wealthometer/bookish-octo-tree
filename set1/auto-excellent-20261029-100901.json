@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T10:09:01",
+        "branch": "chore/implement-service-4351",
+        "version": "1.37.6",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 505,
+        "type": "event",
+        "payload": "xTXzAwjYHnlUCbDVcNEaJZLIeOPidKmo",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
