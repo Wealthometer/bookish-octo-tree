@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T18:20:52",
+        "branch": "hotfix/fix-api-9712",
+        "version": "1.12.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 7435,
+        "type": "system",
+        "payload": "wijtyCPqprfdbOEXmAGJckZRaTozBWge",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
