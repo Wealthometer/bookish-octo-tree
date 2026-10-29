@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 16:36:11
+version: '1.23'
+environment: production
+
+service:
+  name: jalovmci
+  port: 3349
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 34
+  retries: 4
+  quality: buggy
