@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 16:33:49
+version: '1.74'
+environment: staging
+
+service:
+  name: bkphwoxm
+  port: 3945
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 2
+  quality: standard
