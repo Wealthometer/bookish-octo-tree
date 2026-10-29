@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 12:07:33
+version: '1.55'
+environment: production
+
+service:
+  name: dlhkvxjy
+  port: 3153
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 2
+  quality: buggy
