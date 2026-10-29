@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 20:49:06
+version: '1.29'
+environment: development
+
+service:
+  name: jhbxyuds
+  port: 3612
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 45
+  retries: 1
+  quality: excellent
