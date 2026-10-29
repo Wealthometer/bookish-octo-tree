@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 16:31:23
+version: '1.76'
+environment: staging
+
+service:
+  name: rgmndqcp
+  port: 3514
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 39
+  retries: 2
+  quality: buggy
