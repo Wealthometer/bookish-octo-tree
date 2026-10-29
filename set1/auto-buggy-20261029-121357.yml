@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 12:13:57
+version: '1.49'
+environment: development
+
+service:
+  name: ipdxartq
+  port: 3096
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 2
+  quality: buggy
