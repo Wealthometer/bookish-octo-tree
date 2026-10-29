@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 13:40:25
+version: '1.77'
+environment: development
+
+service:
+  name: tapeidrk
+  port: 3766
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 35
+  retries: 2
+  quality: standard
