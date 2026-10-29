@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 19:38:00
+version: '1.19'
+environment: staging
+
+service:
+  name: igchwyjo
+  port: 3555
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 2
+  quality: excellent
