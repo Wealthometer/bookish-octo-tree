@@ -1,0 +1,5 @@
+﻿[0] 14:41:06 - bzndwmr - OK
+[1] 14:41:06 - vfdyaq - SKIPPED
+[2] 14:41:06 - xdqerch - PENDING
+[3] 14:41:06 - erhmb - SKIPPED
+[4] 14:41:06 - tpuoaqvl - SKIPPED
