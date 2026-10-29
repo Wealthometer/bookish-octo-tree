@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T19:18:12",
+        "branch": "chore/update-handler-9315",
+        "version": "1.5.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 7323,
+        "type": "event",
+        "payload": "JVHbjWmOGdIlNReiABfarSnquzhDPUog",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
