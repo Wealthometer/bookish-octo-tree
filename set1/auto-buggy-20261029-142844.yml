@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 14:28:44
+version: '1.60'
+environment: production
+
+service:
+  name: gptnorkx
+  port: 3141
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 59
+  retries: 4
+  quality: buggy
