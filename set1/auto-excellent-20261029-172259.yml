@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 17:22:59
+version: '1.1'
+environment: development
+
+service:
+  name: hxkqotsa
+  port: 3843
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 37
+  retries: 3
+  quality: excellent
