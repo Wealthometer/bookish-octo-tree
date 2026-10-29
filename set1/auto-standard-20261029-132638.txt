@@ -1,0 +1,7 @@
+﻿[0] 13:26:38 - bxoedpskaui - ERROR
+[1] 13:26:38 - gboyxji - PENDING
+[2] 13:26:38 - dytxub - ERROR
+[3] 13:26:38 - ufhdamwgyj - SKIPPED
+[4] 13:26:38 - cpviulsya - ERROR
+[5] 13:26:38 - hlefjiayguz - OK
+[6] 13:26:38 - ygodqpnv - OK
