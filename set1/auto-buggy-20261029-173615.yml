@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 17:36:15
+version: '1.65'
+environment: development
+
+service:
+  name: yhrflamp
+  port: 3515
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 11
+  retries: 3
+  quality: buggy
