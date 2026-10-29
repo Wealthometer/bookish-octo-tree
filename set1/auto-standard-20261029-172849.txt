@@ -1,0 +1,6 @@
+﻿[0] 17:28:49 - zvymrfdpi - ERROR
+[1] 17:28:49 - ujwbratzyf - OK
+[2] 17:28:49 - exodzq - ERROR
+[3] 17:28:49 - yibedolh - OK
+[4] 17:28:49 - pvuow - ERROR
+[5] 17:28:49 - vksgudyzxmt - SKIPPED
