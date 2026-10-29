@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 20:46:41
+version: '1.79'
+environment: production
+
+service:
+  name: obzumtnh
+  port: 3757
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 26
+  retries: 4
+  quality: standard
