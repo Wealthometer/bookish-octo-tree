@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 11:26:26
+version: '1.17'
+environment: development
+
+service:
+  name: qbgpjika
+  port: 3134
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 25
+  retries: 2
+  quality: buggy
