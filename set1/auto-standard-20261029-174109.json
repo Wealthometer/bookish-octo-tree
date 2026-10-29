@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T17:41:10",
+        "branch": "release/implement-module-6098",
+        "version": "1.26.6",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 1613,
+        "type": "user",
+        "payload": "QTfRjBVFrCGKLPEvOzScWqaMntmywNuZ",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
