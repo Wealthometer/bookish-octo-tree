@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 10:32:59
+version: '1.95'
+environment: development
+
+service:
+  name: ralopzce
+  port: 3847
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 50
+  retries: 2
+  quality: excellent
