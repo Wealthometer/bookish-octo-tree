@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T13:41:39",
+        "branch": "refactor/fix-service-2553",
+        "version": "1.0.0",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 7375,
+        "type": "user",
+        "payload": "hXiKBTFbtJZOxfyDoMcGRQgpSuVAzqsI",
+        "priority": 3
+    }
+}
