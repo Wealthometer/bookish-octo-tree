@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T16:59:35",
+        "branch": "hotfix/update-service-8175",
+        "version": "1.79.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 6539,
+        "type": "event",
+        "payload": "XSNacjTEtdonRVMrJvOKWFxhZieGYCbg",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
