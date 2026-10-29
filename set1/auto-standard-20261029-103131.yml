@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 10:31:31
+version: '1.39'
+environment: production
+
+service:
+  name: eflbvnoi
+  port: 3274
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 37
+  retries: 3
+  quality: standard
