@@ -1,0 +1,13 @@
+﻿[0] 18:56:56 - pelmvifwo - OK
+[1] 18:56:56 - ouhmnzy - PENDING
+[2] 18:56:56 - uwhfmy - SKIPPED
+[3] 18:56:56 - lewonfhyv - OK
+[4] 18:56:56 - wadfionbvyq - SKIPPED
+[5] 18:56:56 - bghprntvqwu - ERROR
+[6] 18:56:56 - xbaqlzkjw - ERROR
+[7] 18:56:56 - ozfinearjmx - PENDING
+[8] 18:56:56 - jdlaqmwvi - OK
+[9] 18:56:56 - awixfe - OK
+[10] 18:56:56 - ngvfhx - OK
+[11] 18:56:56 - ctyepamdwlo - PENDING
+[12] 18:56:56 - dtaxgcwnbh - SKIPPED
