@@ -1,0 +1,5 @@
+﻿[0] 20:45:25 - spbywtomda - SKIPPED
+[1] 20:45:25 - fvoaqm - OK
+[2] 20:45:25 - vahnclox - OK
+[3] 20:45:25 - xpsocqde - ERROR
+[4] 20:45:25 - uscozkqthja - SKIPPED
