@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 16:10:07
+version: '1.32'
+environment: production
+
+service:
+  name: aohdgcuw
+  port: 3380
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 52
+  retries: 3
+  quality: excellent
