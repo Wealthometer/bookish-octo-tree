@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 12:24:38
+version: '1.87'
+environment: development
+
+service:
+  name: bmcgxwar
+  port: 3919
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 17
+  retries: 2
+  quality: standard
