@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 17:09:19
+version: '1.74'
+environment: development
+
+service:
+  name: nxtqbyir
+  port: 3799
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 54
+  retries: 3
+  quality: buggy
