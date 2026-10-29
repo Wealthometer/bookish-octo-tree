@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 17:57:05
+version: '1.72'
+environment: production
+
+service:
+  name: bjhqyafl
+  port: 3646
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 3
+  quality: excellent
