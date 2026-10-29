@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 20:55:47
+version: '1.80'
+environment: development
+
+service:
+  name: houfnycd
+  port: 3960
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 1
+  quality: excellent
