@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 20:50:32
+version: '1.25'
+environment: production
+
+service:
+  name: hkrnoygz
+  port: 3154
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 37
+  retries: 4
+  quality: buggy
