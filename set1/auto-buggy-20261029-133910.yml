@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 13:39:10
+version: '1.17'
+environment: staging
+
+service:
+  name: stwlbdox
+  port: 3692
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 12
+  retries: 2
+  quality: buggy
