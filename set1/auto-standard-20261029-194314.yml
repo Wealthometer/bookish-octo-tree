@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 19:43:14
+version: '1.99'
+environment: production
+
+service:
+  name: ezudrohs
+  port: 3698
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 44
+  retries: 3
+  quality: standard
