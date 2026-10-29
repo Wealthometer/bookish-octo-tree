@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 19:08:07
+version: '1.81'
+environment: staging
+
+service:
+  name: qphjrbcv
+  port: 3526
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 55
+  retries: 2
+  quality: standard
