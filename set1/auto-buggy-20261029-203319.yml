@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 20:33:20
+version: '1.16'
+environment: development
+
+service:
+  name: tivwuodm
+  port: 3990
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 54
+  retries: 1
+  quality: buggy
