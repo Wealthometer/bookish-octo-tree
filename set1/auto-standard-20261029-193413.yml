@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 19:34:13
+version: '1.80'
+environment: production
+
+service:
+  name: cwuoaxmi
+  port: 3641
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 17
+  retries: 2
+  quality: standard
