@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 10:40:38
+version: '1.86'
+environment: production
+
+service:
+  name: xrfomebq
+  port: 3205
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 1
+  quality: standard
