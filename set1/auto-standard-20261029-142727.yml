@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 14:27:27
+version: '1.79'
+environment: staging
+
+service:
+  name: ycpolubx
+  port: 3329
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 37
+  retries: 2
+  quality: standard
