@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 16:46:13
+version: '1.78'
+environment: development
+
+service:
+  name: srdicyoz
+  port: 3198
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 41
+  retries: 1
+  quality: buggy
