@@ -1,0 +1,13 @@
+﻿[0] 10:15:40 - doteaxrv - OK
+[1] 10:15:40 - mtcbridvypl - OK
+[2] 10:15:40 - sftvadcx - OK
+[3] 10:15:40 - kubtxofs - OK
+[4] 10:15:40 - oxhadqnu - SKIPPED
+[5] 10:15:40 - gouwksyhxim - ERROR
+[6] 10:15:40 - lkdpjcsahxb - ERROR
+[7] 10:15:40 - dglipre - OK
+[8] 10:15:40 - lmhgnerd - OK
+[9] 10:15:40 - rqdvgfczj - SKIPPED
+[10] 10:15:40 - hzglfyr - OK
+[11] 10:15:40 - gyhkmvtcob - PENDING
+[12] 10:15:40 - vjrfoguth - PENDING
