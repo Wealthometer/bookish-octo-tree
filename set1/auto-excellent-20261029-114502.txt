@@ -1,0 +1,11 @@
+﻿[0] 11:45:02 - vugjkz - OK
+[1] 11:45:02 - dcraz - ERROR
+[2] 11:45:02 - udvkr - SKIPPED
+[3] 11:45:02 - qebhwyg - OK
+[4] 11:45:02 - lirkh - SKIPPED
+[5] 11:45:02 - nbgycx - ERROR
+[6] 11:45:02 - nwfkvjbxo - OK
+[7] 11:45:02 - jycdibex - COMPLETE
+[8] 11:45:02 - hkbmo - ERROR
+[9] 11:45:02 - egvwbh - ERROR
+[10] 11:45:02 - vlbmtcwkxf - OK
