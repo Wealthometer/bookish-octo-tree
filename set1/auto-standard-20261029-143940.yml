@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 14:39:40
+version: '1.60'
+environment: development
+
+service:
+  name: kqzrmhvy
+  port: 3322
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 4
+  quality: standard
