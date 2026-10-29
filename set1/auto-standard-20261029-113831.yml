@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:38:31
+version: '1.43'
+environment: production
+
+service:
+  name: ewocptju
+  port: 3660
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 3
+  quality: standard
