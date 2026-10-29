@@ -1,0 +1,5 @@
+﻿[0] 10:37:25 - jfbuzcgw - ERROR
+[1] 10:37:25 - snhkge - COMPLETE
+[2] 10:37:25 - vujnqhztydl - OK
+[3] 10:37:25 - orsmkxianc - SKIPPED
+[4] 10:37:25 - ejqtpvcrf - PENDING
