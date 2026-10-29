@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:54:22
+version: '1.11'
+environment: production
+
+service:
+  name: wxtcqoiv
+  port: 3556
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 16
+  retries: 2
+  quality: standard
