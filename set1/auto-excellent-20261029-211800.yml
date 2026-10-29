@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 21:18:00
+version: '1.2'
+environment: production
+
+service:
+  name: mjtpdyqr
+  port: 3442
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 1
+  quality: excellent
