@@ -1,0 +1,6 @@
+﻿[0] 14:26:00 - jiyecrfas - OK
+[1] 14:26:00 - bfmldt - PENDING
+[2] 14:26:00 - qmvzgbf - ERROR
+[3] 14:26:00 - owaxqhlm - SKIPPED
+[4] 14:26:00 - nowjfzb - OK
+[5] 14:26:00 - kcuonfhgam - SKIPPED
