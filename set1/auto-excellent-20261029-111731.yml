@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:17:31
+version: '1.99'
+environment: development
+
+service:
+  name: etuhsfyx
+  port: 3396
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 10
+  retries: 2
+  quality: excellent
