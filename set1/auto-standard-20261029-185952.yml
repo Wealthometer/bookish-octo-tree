@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 18:59:52
+version: '1.97'
+environment: production
+
+service:
+  name: xbewcaji
+  port: 3961
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 12
+  retries: 3
+  quality: standard
