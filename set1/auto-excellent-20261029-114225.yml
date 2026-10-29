@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:42:25
+version: '1.69'
+environment: development
+
+service:
+  name: gvhsqcfb
+  port: 3060
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 4
+  quality: excellent
