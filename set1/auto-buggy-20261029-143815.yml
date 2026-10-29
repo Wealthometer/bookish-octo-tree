@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 14:38:15
+version: '1.9'
+environment: staging
+
+service:
+  name: zmqtjsbc
+  port: 3820
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 44
+  retries: 1
+  quality: buggy
