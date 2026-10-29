@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:01:04
+version: '1.14'
+environment: staging
+
+service:
+  name: lxmyigzk
+  port: 3429
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 1
+  quality: standard
