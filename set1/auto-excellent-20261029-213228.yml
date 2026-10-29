@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 21:32:28
+version: '1.31'
+environment: staging
+
+service:
+  name: nfoghqek
+  port: 3478
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 52
+  retries: 4
+  quality: excellent
