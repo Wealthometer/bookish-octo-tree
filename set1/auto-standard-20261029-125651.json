@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T12:56:51",
+        "branch": "hotfix/add-api-3115",
+        "version": "1.2.4",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8233,
+        "type": "metric",
+        "payload": "MAQmejCRIVnENqFWvcGiaZwkzltLHbOK",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
