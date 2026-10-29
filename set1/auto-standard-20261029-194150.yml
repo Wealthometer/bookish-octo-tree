@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 19:41:50
+version: '1.98'
+environment: production
+
+service:
+  name: ovmhniwf
+  port: 3676
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 2
+  quality: standard
