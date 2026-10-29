@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:37:20
+version: '1.64'
+environment: staging
+
+service:
+  name: jsdmnekb
+  port: 3816
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 12
+  retries: 2
+  quality: standard
