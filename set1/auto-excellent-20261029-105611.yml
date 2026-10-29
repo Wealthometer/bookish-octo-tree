@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 10:56:11
+version: '1.43'
+environment: production
+
+service:
+  name: mpdewcal
+  port: 3136
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 53
+  retries: 2
+  quality: excellent
