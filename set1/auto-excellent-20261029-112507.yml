@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 11:25:07
+version: '1.32'
+environment: staging
+
+service:
+  name: gfypbazr
+  port: 3444
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 3
+  quality: excellent
