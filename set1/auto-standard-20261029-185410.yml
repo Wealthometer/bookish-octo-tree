@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 18:54:10
+version: '1.40'
+environment: production
+
+service:
+  name: ydcunove
+  port: 3861
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 4
+  quality: standard
