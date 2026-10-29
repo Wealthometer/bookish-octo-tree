@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-29T15:11:32",
+        "branch": "hotfix/update-utils-9044",
+        "version": "1.22.7",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 2543,
+        "type": "user",
+        "payload": "gWEnfGtvUiMRQDhbumoZHadxrSFzYjJq",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
