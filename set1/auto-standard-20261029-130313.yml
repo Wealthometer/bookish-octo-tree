@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 13:03:14
+version: '1.29'
+environment: production
+
+service:
+  name: zhdyfaur
+  port: 3013
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 1
+  quality: standard
