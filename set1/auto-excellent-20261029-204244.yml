@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-29 20:42:44
+version: '1.83'
+environment: staging
+
+service:
+  name: augjwsno
+  port: 3247
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 49
+  retries: 4
+  quality: excellent
