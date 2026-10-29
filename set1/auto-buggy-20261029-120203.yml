@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-29 12:02:03
+version: '1.42'
+environment: staging
+
+service:
+  name: nueksoqc
+  port: 3192
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 10
+  retries: 3
+  quality: buggy
