@@ -1,0 +1,11 @@
+﻿[0] 13:53:44 - dvznis - OK
+[1] 13:53:44 - lkrdfsgi - ERROR
+[2] 13:53:44 - puvsh - OK
+[3] 13:53:44 - yzxoatnurm - SKIPPED
+[4] 13:53:44 - rahesz - SKIPPED
+[5] 13:53:44 - vbfaj - SKIPPED
+[6] 13:53:44 - owsmq - ERROR
+[7] 13:53:44 - vgqjwmuay - COMPLETE
+[8] 13:53:44 - ncfjikrlg - SKIPPED
+[9] 13:53:44 - igqdachwb - OK
+[10] 13:53:44 - lumewcdspi - OK
