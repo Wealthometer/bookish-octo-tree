@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-03 23:59:03
+version: '1.57'
+environment: production
+
+service:
+  name: dqpzeibf
+  port: 3833
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 10
+  retries: 1
+  quality: buggy
