@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T00:43:43",
+        "branch": "chore/fix-service-5153",
+        "version": "1.12.6",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 4528,
+        "type": "user",
+        "payload": "ycHrpUFEYlNAmeRMWGxIgKJiktsCofwT",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
