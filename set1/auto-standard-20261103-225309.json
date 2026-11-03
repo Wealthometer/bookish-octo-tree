@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-03T22:53:09",
+        "branch": "chore/optimize-service-2096",
+        "version": "1.34.7",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4147,
+        "type": "user",
+        "payload": "nomigQJKaLRsOESZdjBPzveDtkAVhbpM",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
