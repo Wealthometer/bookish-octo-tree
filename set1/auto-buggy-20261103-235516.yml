@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-03 23:55:16
+version: '1.19'
+environment: staging
+
+service:
+  name: asvbjxnh
+  port: 3390
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 52
+  retries: 1
+  quality: buggy
