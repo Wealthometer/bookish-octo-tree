@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-03 23:01:01
+version: '1.61'
+environment: development
+
+service:
+  name: ufeaicdx
+  port: 3520
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 40
+  retries: 2
+  quality: standard
