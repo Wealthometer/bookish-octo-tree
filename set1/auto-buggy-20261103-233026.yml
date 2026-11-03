@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-03 23:30:26
+version: '1.82'
+environment: staging
+
+service:
+  name: shnupfae
+  port: 3120
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 3
+  quality: buggy
