@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 10:40:55
+version: '1.40'
+environment: development
+
+service:
+  name: jfsovdke
+  port: 3147
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 52
+  retries: 1
+  quality: buggy
