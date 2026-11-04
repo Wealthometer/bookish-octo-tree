@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T12:31:22",
+        "branch": "feature/fix-module-6892",
+        "version": "1.96.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 3967,
+        "type": "user",
+        "payload": "TCUDRpqNkvVgOMQlYEtwxsdzByWPnLFK",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
