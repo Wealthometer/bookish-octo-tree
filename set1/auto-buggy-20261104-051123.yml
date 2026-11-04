@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 05:11:23
+version: '1.20'
+environment: production
+
+service:
+  name: dwxqyihn
+  port: 3586
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 40
+  retries: 3
+  quality: buggy
