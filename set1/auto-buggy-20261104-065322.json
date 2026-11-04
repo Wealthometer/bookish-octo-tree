@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T06:53:22",
+        "branch": "hotfix/fix-api-6434",
+        "version": "1.1.1",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 500,
+        "type": "user",
+        "payload": "xBpXDWvHFhJyUzOjNMbKocYnATCEemqa",
+        "priority": 3
+    }
+}
