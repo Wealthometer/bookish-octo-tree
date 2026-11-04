@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 23:47:03
+version: '1.43'
+environment: production
+
+service:
+  name: bovcfkas
+  port: 3390
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 29
+  retries: 3
+  quality: buggy
