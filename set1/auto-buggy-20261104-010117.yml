@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 01:01:17
+version: '1.7'
+environment: development
+
+service:
+  name: gfbchmdq
+  port: 3378
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 4
+  quality: buggy
