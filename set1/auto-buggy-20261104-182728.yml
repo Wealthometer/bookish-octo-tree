@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 18:27:28
+version: '1.43'
+environment: development
+
+service:
+  name: uextcabg
+  port: 3791
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 3
+  quality: buggy
