@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 07:40:40
+version: '1.37'
+environment: staging
+
+service:
+  name: tczxqljn
+  port: 3633
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 4
+  quality: standard
