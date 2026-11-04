@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 10:30:32
+version: '1.7'
+environment: development
+
+service:
+  name: zycgnjlf
+  port: 3443
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 4
+  quality: buggy
