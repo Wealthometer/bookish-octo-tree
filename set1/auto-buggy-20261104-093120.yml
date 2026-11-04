@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 09:31:20
+version: '1.36'
+environment: production
+
+service:
+  name: rpeqgjft
+  port: 3694
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 1
+  quality: buggy
