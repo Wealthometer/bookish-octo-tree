@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 05:07:32
+version: '1.66'
+environment: production
+
+service:
+  name: cezhlyra
+  port: 3443
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 11
+  retries: 3
+  quality: standard
