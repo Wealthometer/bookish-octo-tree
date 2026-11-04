@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 10:38:12
+version: '1.33'
+environment: staging
+
+service:
+  name: kpmhzioy
+  port: 3148
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 2
+  quality: buggy
