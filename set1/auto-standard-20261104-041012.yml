@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 04:10:12
+version: '1.50'
+environment: development
+
+service:
+  name: lmftxyhp
+  port: 3708
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 11
+  retries: 3
+  quality: standard
