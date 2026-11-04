@@ -1,0 +1,9 @@
+﻿[0] 06:46:23 - otgyab - SKIPPED
+[1] 06:46:23 - jhrcdpuit - SKIPPED
+[2] 06:46:23 - rozjc - OK
+[3] 06:46:23 - dclkwahoens - ERROR
+[4] 06:46:23 - cbazym - SKIPPED
+[5] 06:46:23 - ibnakcdvzsr - OK
+[6] 06:46:23 - fjqndcim - ERROR
+[7] 06:46:23 - lfkorat - ERROR
+[8] 06:46:23 - dnibo - ERROR
