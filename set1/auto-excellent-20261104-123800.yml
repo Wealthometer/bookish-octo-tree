@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 12:38:00
+version: '1.90'
+environment: development
+
+service:
+  name: kgwutqbe
+  port: 3173
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 3
+  quality: excellent
