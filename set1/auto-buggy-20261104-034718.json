@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T03:47:18",
+        "branch": "release/add-handler-5168",
+        "version": "1.16.9",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 3195,
+        "type": "user",
+        "payload": "MyWlTtKjGwfQDiSLOsBIvxdbFrYAegVC",
+        "priority": 3
+    }
+}
