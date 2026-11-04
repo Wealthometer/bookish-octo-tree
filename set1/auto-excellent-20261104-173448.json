@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T17:34:48",
+        "branch": "bugfix/fix-handler-1577",
+        "version": "1.38.6",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 6884,
+        "type": "user",
+        "payload": "NfxdjoPEKeCtFJTAYmZpUurOnBqgiHsl",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
