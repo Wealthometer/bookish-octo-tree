@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 03:04:28
+version: '1.65'
+environment: development
+
+service:
+  name: rgvpfwsq
+  port: 3833
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 25
+  retries: 2
+  quality: buggy
