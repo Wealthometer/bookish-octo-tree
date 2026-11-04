@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 14:03:46
+version: '1.37'
+environment: staging
+
+service:
+  name: zjdexvbu
+  port: 3131
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 50
+  retries: 3
+  quality: buggy
