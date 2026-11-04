@@ -1,0 +1,7 @@
+﻿[0] 05:21:49 - icfzqpdrl - PENDING
+[1] 05:21:49 - ujgdfm - PENDING
+[2] 05:21:49 - ecbsopahkm - ERROR
+[3] 05:21:49 - fnxovwd - PENDING
+[4] 05:21:49 - awnzrlusby - OK
+[5] 05:21:49 - ucwbdyph - ERROR
+[6] 05:21:49 - qkznb - SKIPPED
