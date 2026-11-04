@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 06:56:14
+version: '1.23'
+environment: production
+
+service:
+  name: huqlnsri
+  port: 3244
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 2
+  quality: buggy
