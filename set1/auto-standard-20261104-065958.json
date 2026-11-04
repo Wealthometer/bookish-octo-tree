@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T06:59:58",
+        "branch": "release/update-api-1783",
+        "version": "1.20.6",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 284,
+        "type": "user",
+        "payload": "xfRqByDFurwevKzZEJVUbCmSPiQjtIhs",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
