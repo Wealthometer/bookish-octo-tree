@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T06:54:31",
+        "branch": "feature/add-api-8939",
+        "version": "1.47.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 9148,
+        "type": "user",
+        "payload": "sWNPdrazbGJEARvCikghYSLnyDOBXZwH",
+        "priority": 3
+,
+        "status": "active"
+    }
+}
