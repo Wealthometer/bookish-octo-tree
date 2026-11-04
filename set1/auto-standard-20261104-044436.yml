@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 04:44:36
+version: '1.84'
+environment: production
+
+service:
+  name: hbmnxsod
+  port: 3031
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 59
+  retries: 1
+  quality: standard
