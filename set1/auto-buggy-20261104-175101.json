@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T17:51:01",
+        "branch": "hotfix/fix-api-6488",
+        "version": "1.95.8",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 7209,
+        "type": "event",
+        "payload": "lzYdnLcHGVRZaCxhSeoEwiWNFsyIfXOq",
+        "priority": 2
+    }
+}
