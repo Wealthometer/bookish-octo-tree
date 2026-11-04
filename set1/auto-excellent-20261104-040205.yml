@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 04:02:05
+version: '1.6'
+environment: development
+
+service:
+  name: bsytgdur
+  port: 3909
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 1
+  quality: excellent
