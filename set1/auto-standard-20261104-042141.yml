@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 04:21:41
+version: '1.13'
+environment: development
+
+service:
+  name: aoldutmr
+  port: 3029
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 2
+  quality: standard
