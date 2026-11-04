@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 06:15:30
+version: '1.51'
+environment: production
+
+service:
+  name: iogdzxaw
+  port: 3236
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 28
+  retries: 1
+  quality: buggy
