@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-05 00:35:04
+version: '1.99'
+environment: production
+
+service:
+  name: wkgsyjdf
+  port: 3097
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 41
+  retries: 1
+  quality: standard
