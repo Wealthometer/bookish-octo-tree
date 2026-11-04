@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T08:18:57",
+        "branch": "hotfix/optimize-api-8875",
+        "version": "1.57.8",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 6418,
+        "type": "event",
+        "payload": "UtezGgYSTQafKLJZmpMIbyodjuONlviE",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
