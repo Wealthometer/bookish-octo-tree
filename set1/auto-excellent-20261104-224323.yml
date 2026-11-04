@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 22:43:23
+version: '1.11'
+environment: production
+
+service:
+  name: ogeklcdy
+  port: 3529
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 17
+  retries: 2
+  quality: excellent
