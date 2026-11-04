@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 03:48:26
+version: '1.72'
+environment: staging
+
+service:
+  name: ckgiawtm
+  port: 3672
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 1
+  quality: standard
