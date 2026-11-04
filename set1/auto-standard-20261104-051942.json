@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T05:19:42",
+        "branch": "release/update-config-6451",
+        "version": "1.40.4",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 2643,
+        "type": "user",
+        "payload": "KIzJgVeOsZQklqNLWrHCpbSDMEXyhwnd",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
