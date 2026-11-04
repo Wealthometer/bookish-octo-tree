@@ -1,0 +1,8 @@
+﻿[0] 08:21:01 - hrbkjt - OK
+[1] 08:21:01 - exvly - SKIPPED
+[2] 08:21:01 - vnzsfc - PENDING
+[3] 08:21:01 - lagrjkvwdci - COMPLETE
+[4] 08:21:01 - mzorik - OK
+[5] 08:21:01 - ypjvmwzlb - ERROR
+[6] 08:21:01 - xohmpafyubc - PENDING
+[7] 08:21:01 - svkya - SKIPPED
