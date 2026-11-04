@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 02:01:31
+version: '1.97'
+environment: development
+
+service:
+  name: dtgorqal
+  port: 3812
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 4
+  quality: buggy
