@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 15:05:41
+version: '1.45'
+environment: development
+
+service:
+  name: fzmplncq
+  port: 3894
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 1
+  quality: excellent
