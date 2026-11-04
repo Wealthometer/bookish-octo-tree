@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T10:33:22",
+        "branch": "hotfix/optimize-handler-9689",
+        "version": "1.19.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8225,
+        "type": "event",
+        "payload": "hEguGCAjHrSvUXYPLcxdnVkfyzTesNJI",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
