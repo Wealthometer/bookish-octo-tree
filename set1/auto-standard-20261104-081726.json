@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T08:17:26",
+        "branch": "bugfix/update-api-9180",
+        "version": "1.27.8",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4248,
+        "type": "event",
+        "payload": "XgbJjzYmqByhcDGKkFILlwNQVdErZPMs",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
