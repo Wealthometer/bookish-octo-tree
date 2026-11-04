@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 03:49:18
+version: '1.30'
+environment: development
+
+service:
+  name: erqpboiz
+  port: 3407
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 35
+  retries: 1
+  quality: excellent
