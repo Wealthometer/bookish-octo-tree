@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 02:13:59
+version: '1.0'
+environment: development
+
+service:
+  name: milthakj
+  port: 3513
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 42
+  retries: 4
+  quality: excellent
