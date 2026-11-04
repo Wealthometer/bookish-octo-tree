@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T12:35:49",
+        "branch": "hotfix/implement-module-6824",
+        "version": "1.22.8",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 419,
+        "type": "user",
+        "payload": "OeMsTcLZvJmXuEkyGlCfNIFiowAbgRzQ",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
