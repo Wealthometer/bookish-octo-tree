@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T08:07:39",
+        "branch": "bugfix/fix-api-5498",
+        "version": "1.13.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 3096,
+        "type": "system",
+        "payload": "cqLNEsWIkSPQdBbYvTVOrGuRfnAzxMgH",
+        "priority": 4
+,
+        "status": "active"
+    }
+}
