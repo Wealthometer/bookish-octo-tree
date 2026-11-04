@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T06:23:58",
+        "branch": "release/add-api-7955",
+        "version": "1.47.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 6220,
+        "type": "metric",
+        "payload": "QZzKlEFdaGogyDmvPiSJHnBsukcLxbUA",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
