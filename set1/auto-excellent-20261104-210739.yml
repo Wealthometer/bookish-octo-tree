@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 21:07:39
+version: '1.92'
+environment: staging
+
+service:
+  name: tghsfezm
+  port: 3952
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 50
+  retries: 2
+  quality: excellent
