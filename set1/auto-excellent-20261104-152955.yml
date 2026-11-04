@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 15:29:55
+version: '1.21'
+environment: development
+
+service:
+  name: smygbquv
+  port: 3109
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 54
+  retries: 4
+  quality: excellent
