@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 06:44:06
+version: '1.23'
+environment: production
+
+service:
+  name: hnvqpimy
+  port: 3374
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 19
+  retries: 1
+  quality: excellent
