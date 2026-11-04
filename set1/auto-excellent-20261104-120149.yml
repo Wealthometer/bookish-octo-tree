@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 12:01:49
+version: '1.39'
+environment: development
+
+service:
+  name: fcwdizpl
+  port: 3315
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 3
+  quality: excellent
