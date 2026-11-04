@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T23:21:10",
+        "branch": "refactor/fix-service-8197",
+        "version": "1.47.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5332,
+        "type": "event",
+        "payload": "weSGournaxhJBLmcfbDUWzPtQCTkjXVZ",
+        "priority": 4
+,
+        "status": "active"
+    }
+}
