@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 01:22:35
+version: '1.32'
+environment: staging
+
+service:
+  name: smxiejoz
+  port: 3915
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 4
+  quality: buggy
