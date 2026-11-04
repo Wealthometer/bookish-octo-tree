@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 23:04:11
+version: '1.85'
+environment: production
+
+service:
+  name: mtdhxela
+  port: 3700
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 3
+  quality: standard
