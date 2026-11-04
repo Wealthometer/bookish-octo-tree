@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 06:44:41
+version: '1.87'
+environment: production
+
+service:
+  name: ibfkgxvr
+  port: 3326
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 25
+  retries: 2
+  quality: buggy
