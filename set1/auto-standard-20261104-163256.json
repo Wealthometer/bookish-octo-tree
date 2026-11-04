@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T16:32:56",
+        "branch": "bugfix/fix-utils-6269",
+        "version": "1.90.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5040,
+        "type": "metric",
+        "payload": "qUCZouWhfHyTFDwpsrnYcEiJXmLbvRxa",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
