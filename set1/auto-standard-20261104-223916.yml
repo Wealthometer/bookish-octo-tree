@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 22:39:16
+version: '1.93'
+environment: staging
+
+service:
+  name: xoqubdge
+  port: 3109
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 4
+  quality: standard
