@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 13:45:46
+version: '1.6'
+environment: development
+
+service:
+  name: xnyfevak
+  port: 3315
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 41
+  retries: 1
+  quality: buggy
