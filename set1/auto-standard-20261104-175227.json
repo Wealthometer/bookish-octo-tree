@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T17:52:27",
+        "branch": "bugfix/implement-handler-4961",
+        "version": "1.18.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5222,
+        "type": "event",
+        "payload": "cuWtKjzghVOasGYUbNmLovdrpQEwPFAx",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
