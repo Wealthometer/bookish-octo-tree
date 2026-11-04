@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T04:35:38",
+        "branch": "chore/update-api-6021",
+        "version": "1.38.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8345,
+        "type": "user",
+        "payload": "VaFCefmAStcpNxdDHhYZGQORKzUrJBvI",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
