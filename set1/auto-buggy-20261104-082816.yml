@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 08:28:16
+version: '1.66'
+environment: development
+
+service:
+  name: itvramoy
+  port: 3279
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 33
+  retries: 2
+  quality: buggy
