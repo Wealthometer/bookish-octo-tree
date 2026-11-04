@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 23:48:35
+version: '1.38'
+environment: production
+
+service:
+  name: nmtbdqis
+  port: 3201
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 3
+  quality: standard
