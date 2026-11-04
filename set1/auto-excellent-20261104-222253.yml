@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 22:22:53
+version: '1.35'
+environment: staging
+
+service:
+  name: vaxzdqhc
+  port: 3819
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 40
+  retries: 1
+  quality: excellent
