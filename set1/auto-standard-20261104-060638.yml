@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 06:06:38
+version: '1.62'
+environment: production
+
+service:
+  name: djuhlyse
+  port: 3182
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 36
+  retries: 2
+  quality: standard
