@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 08:07:01
+version: '1.39'
+environment: development
+
+service:
+  name: tujmkawq
+  port: 3562
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 19
+  retries: 4
+  quality: excellent
