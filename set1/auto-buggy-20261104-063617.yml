@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 06:36:17
+version: '1.83'
+environment: staging
+
+service:
+  name: qvpfgayx
+  port: 3342
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 40
+  retries: 3
+  quality: buggy
