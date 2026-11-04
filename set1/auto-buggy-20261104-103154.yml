@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 10:31:54
+version: '1.64'
+environment: production
+
+service:
+  name: xynfrvoh
+  port: 3881
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 4
+  quality: buggy
