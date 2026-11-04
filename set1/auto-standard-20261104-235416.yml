@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 23:54:16
+version: '1.65'
+environment: staging
+
+service:
+  name: ixdvmysk
+  port: 3548
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 16
+  retries: 2
+  quality: standard
