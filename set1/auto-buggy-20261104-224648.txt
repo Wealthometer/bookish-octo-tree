@@ -1,0 +1,8 @@
+﻿[0] 22:46:48 - jxkgmprqdnl - OK
+[1] 22:46:48 - altkfys - SKIPPED
+[2] 22:46:48 - qzrlkigh - SKIPPED
+[3] 22:46:48 - vsayx - ERROR
+[4] 22:46:48 - zjhrsf - ERROR
+[5] 22:46:48 - nprdmehtku - ERROR
+[6] 22:46:48 - sflmendvu - ERROR
+[7] 22:46:48 - wvyidn - SKIPPED
