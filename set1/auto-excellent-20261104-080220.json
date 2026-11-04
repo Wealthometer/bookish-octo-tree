@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T08:02:20",
+        "branch": "bugfix/add-utils-4814",
+        "version": "1.87.4",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 5216,
+        "type": "user",
+        "payload": "CIOYicoLRUABlQMmXuqDjkVdyHSfxgpZ",
+        "priority": 3
+,
+        "status": "active"
+    }
+}
