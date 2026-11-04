@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 17:33:12
+version: '1.79'
+environment: staging
+
+service:
+  name: dypobuka
+  port: 3450
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 13
+  retries: 2
+  quality: standard
