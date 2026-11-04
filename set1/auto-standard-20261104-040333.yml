@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 04:03:33
+version: '1.71'
+environment: development
+
+service:
+  name: ukeojdxg
+  port: 3687
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 48
+  retries: 3
+  quality: standard
