@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 08:32:55
+version: '1.73'
+environment: production
+
+service:
+  name: pjvnxmdb
+  port: 3498
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 2
+  quality: buggy
