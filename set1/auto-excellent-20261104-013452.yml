@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 01:34:52
+version: '1.89'
+environment: staging
+
+service:
+  name: onyaxkgm
+  port: 3020
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 4
+  quality: excellent
