@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 21:40:08
+version: '1.68'
+environment: development
+
+service:
+  name: iaoevftn
+  port: 3898
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 1
+  quality: standard
