@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 19:11:56
+version: '1.48'
+environment: development
+
+service:
+  name: tkgzoafh
+  port: 3615
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 33
+  retries: 3
+  quality: standard
