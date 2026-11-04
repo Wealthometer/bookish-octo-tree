@@ -1,0 +1,8 @@
+﻿[0] 06:43:15 - tmnaxu - OK
+[1] 06:43:15 - wslkdgtzip - SKIPPED
+[2] 06:43:15 - cxinoygs - OK
+[3] 06:43:15 - teixlgpc - COMPLETE
+[4] 06:43:15 - ulfntp - ERROR
+[5] 06:43:15 - znsrg - SKIPPED
+[6] 06:43:15 - efvmco - ERROR
+[7] 06:43:15 - ygwvm - ERROR
