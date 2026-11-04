@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 05:35:13
+version: '1.98'
+environment: production
+
+service:
+  name: ioahyrfz
+  port: 3437
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 1
+  quality: excellent
