@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-05 00:00:49
+version: '1.28'
+environment: production
+
+service:
+  name: pnldbvrz
+  port: 3058
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 4
+  quality: standard
