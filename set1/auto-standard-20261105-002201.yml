@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-05 00:22:01
+version: '1.28'
+environment: production
+
+service:
+  name: czqtpvhl
+  port: 3835
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 48
+  retries: 3
+  quality: standard
