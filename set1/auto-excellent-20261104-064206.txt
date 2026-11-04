@@ -1,0 +1,6 @@
+﻿[0] 06:42:06 - ldiamqk - PENDING
+[1] 06:42:06 - kdhsz - OK
+[2] 06:42:06 - lxmvbwpfg - OK
+[3] 06:42:06 - mgnvltidcs - PENDING
+[4] 06:42:06 - ugocske - ERROR
+[5] 06:42:06 - jxapnhezr - PENDING
