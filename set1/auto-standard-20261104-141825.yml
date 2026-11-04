@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 14:18:25
+version: '1.12'
+environment: staging
+
+service:
+  name: qcftremy
+  port: 3193
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 12
+  retries: 3
+  quality: standard
