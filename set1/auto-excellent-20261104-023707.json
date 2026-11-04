@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-04T02:37:07",
+        "branch": "feature/fix-handler-6929",
+        "version": "1.68.5",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 835,
+        "type": "user",
+        "payload": "jmJtRrdhngNWikLzvaxufbEZIKoTqSHp",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
