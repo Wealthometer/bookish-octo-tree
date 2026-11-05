@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-05 18:14:40
+version: '1.93'
+environment: development
+
+service:
+  name: ukyxhztd
+  port: 3907
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 55
+  retries: 3
+  quality: buggy
