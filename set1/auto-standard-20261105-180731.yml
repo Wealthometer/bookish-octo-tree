@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-05 18:07:31
+version: '1.28'
+environment: staging
+
+service:
+  name: miuohkys
+  port: 3100
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 20
+  retries: 3
+  quality: standard
