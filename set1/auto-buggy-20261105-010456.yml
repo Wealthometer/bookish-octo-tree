@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-05 01:04:56
+version: '1.47'
+environment: production
+
+service:
+  name: gdcxnpzh
+  port: 3786
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 27
+  retries: 4
+  quality: buggy
