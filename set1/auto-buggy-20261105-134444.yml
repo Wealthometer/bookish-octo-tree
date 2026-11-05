@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-05 13:44:44
+version: '1.64'
+environment: production
+
+service:
+  name: admikxfr
+  port: 3083
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 25
+  retries: 3
+  quality: buggy
