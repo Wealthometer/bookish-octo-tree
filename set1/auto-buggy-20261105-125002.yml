@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-05 12:50:02
+version: '1.39'
+environment: production
+
+service:
+  name: bxnchluv
+  port: 3910
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 28
+  retries: 2
+  quality: buggy
