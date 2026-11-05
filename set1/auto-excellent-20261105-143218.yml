@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-05 14:32:18
+version: '1.59'
+environment: production
+
+service:
+  name: hyrmzbpj
+  port: 3227
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 2
+  quality: excellent
