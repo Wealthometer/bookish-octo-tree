@@ -1,0 +1,5 @@
+﻿[0] 01:02:52 - yglofmwj - PENDING
+[1] 01:02:52 - glybok - SKIPPED
+[2] 01:02:52 - qeigorcl - ERROR
+[3] 01:02:52 - qouxtyed - OK
+[4] 01:02:52 - osvglwef - PENDING
