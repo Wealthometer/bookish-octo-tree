@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 05:52:03
+version: '1.17'
+environment: production
+
+service:
+  name: drvgmsfw
+  port: 3834
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 4
+  quality: standard
