@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 21:02:34
+version: '1.9'
+environment: production
+
+service:
+  name: qltabjpu
+  port: 3788
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 54
+  retries: 4
+  quality: buggy
