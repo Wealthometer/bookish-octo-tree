@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 16:31:27
+version: '1.40'
+environment: staging
+
+service:
+  name: qxtguien
+  port: 3891
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 45
+  retries: 4
+  quality: standard
