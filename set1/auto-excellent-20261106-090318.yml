@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 09:03:18
+version: '1.79'
+environment: staging
+
+service:
+  name: luxrcmgt
+  port: 3464
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 36
+  retries: 2
+  quality: excellent
