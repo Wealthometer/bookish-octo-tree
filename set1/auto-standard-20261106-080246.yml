@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 08:02:46
+version: '1.22'
+environment: staging
+
+service:
+  name: fhknptcz
+  port: 3306
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 3
+  quality: standard
