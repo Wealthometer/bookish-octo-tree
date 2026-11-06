@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 07:01:11
+version: '1.95'
+environment: production
+
+service:
+  name: oupvfhnl
+  port: 3304
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 10
+  retries: 1
+  quality: standard
