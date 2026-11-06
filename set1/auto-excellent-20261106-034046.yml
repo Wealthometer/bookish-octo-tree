@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 03:40:46
+version: '1.30'
+environment: development
+
+service:
+  name: pxmgrkwi
+  port: 3066
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 44
+  retries: 1
+  quality: excellent
