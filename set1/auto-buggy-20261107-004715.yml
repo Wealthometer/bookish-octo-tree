@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 00:47:15
+version: '1.62'
+environment: staging
+
+service:
+  name: axuvowfy
+  port: 3834
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 46
+  retries: 1
+  quality: buggy
