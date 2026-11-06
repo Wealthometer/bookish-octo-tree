@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 08:54:30
+version: '1.48'
+environment: staging
+
+service:
+  name: zstcgxjv
+  port: 3621
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 30
+  retries: 4
+  quality: standard
