@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 03:42:10
+version: '1.33'
+environment: staging
+
+service:
+  name: krdpxqzm
+  port: 3068
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 3
+  quality: buggy
