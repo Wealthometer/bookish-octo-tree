@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T20:33:27",
+        "branch": "release/update-api-8605",
+        "version": "1.49.5",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 1733,
+        "type": "user",
+        "payload": "QNZFMCGeHjvWftTSlLDVAixEIuoOmhqb",
+        "priority": 2
+    }
+}
