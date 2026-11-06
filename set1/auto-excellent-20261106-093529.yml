@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 09:35:29
+version: '1.24'
+environment: development
+
+service:
+  name: nruytvlp
+  port: 3917
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 54
+  retries: 2
+  quality: excellent
