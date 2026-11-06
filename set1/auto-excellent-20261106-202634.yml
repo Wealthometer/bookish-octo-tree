@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 20:26:34
+version: '1.18'
+environment: staging
+
+service:
+  name: yptcwuih
+  port: 3634
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 43
+  retries: 4
+  quality: excellent
