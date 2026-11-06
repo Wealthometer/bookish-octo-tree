@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 00:32:49
+version: '1.14'
+environment: development
+
+service:
+  name: ilpatyfr
+  port: 3155
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 1
+  quality: buggy
