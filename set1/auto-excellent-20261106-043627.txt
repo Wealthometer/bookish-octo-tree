@@ -1,0 +1,7 @@
+﻿[0] 04:36:27 - yavbugcdr - ERROR
+[1] 04:36:27 - ofejxqp - ERROR
+[2] 04:36:27 - lpwedocg - COMPLETE
+[3] 04:36:27 - kpezv - SKIPPED
+[4] 04:36:27 - dnicu - COMPLETE
+[5] 04:36:27 - wfvbega - ERROR
+[6] 04:36:27 - vmrgkaco - COMPLETE
