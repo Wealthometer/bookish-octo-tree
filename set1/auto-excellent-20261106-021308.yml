@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 02:13:08
+version: '1.78'
+environment: development
+
+service:
+  name: qvbeipag
+  port: 3809
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 4
+  quality: excellent
