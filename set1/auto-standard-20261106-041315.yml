@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 04:13:15
+version: '1.69'
+environment: staging
+
+service:
+  name: gofxpbsw
+  port: 3714
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 34
+  retries: 3
+  quality: standard
