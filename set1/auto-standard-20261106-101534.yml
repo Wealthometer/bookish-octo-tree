@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 10:15:34
+version: '1.90'
+environment: staging
+
+service:
+  name: ncshklxd
+  port: 3944
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 57
+  retries: 3
+  quality: standard
