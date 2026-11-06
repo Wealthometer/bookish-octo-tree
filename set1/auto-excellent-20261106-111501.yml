@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 11:15:01
+version: '1.77'
+environment: development
+
+service:
+  name: ebnwmqsx
+  port: 3320
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 1
+  quality: excellent
