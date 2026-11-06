@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T00:58:27",
+        "branch": "hotfix/optimize-handler-7703",
+        "version": "1.69.6",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 5167,
+        "type": "user",
+        "payload": "boaBcKREwUYZgMQHtPhpOTxGkizSjWur",
+        "priority": 0
+,
+        "status": "inactive"
+    }
+}
