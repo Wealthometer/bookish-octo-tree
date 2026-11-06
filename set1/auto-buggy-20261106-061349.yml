@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 06:13:49
+version: '1.8'
+environment: production
+
+service:
+  name: urmhtpnk
+  port: 3911
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 50
+  retries: 2
+  quality: buggy
