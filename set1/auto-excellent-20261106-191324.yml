@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 19:13:24
+version: '1.12'
+environment: staging
+
+service:
+  name: sgibenta
+  port: 3870
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 4
+  quality: excellent
