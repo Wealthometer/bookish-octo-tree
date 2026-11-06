@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T07:40:00",
+        "branch": "bugfix/fix-utils-3581",
+        "version": "1.17.2",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 2819,
+        "type": "user",
+        "payload": "EMADOatHLlWzcobKVhkmIpqCwNSnedYU",
+        "priority": 1
+    }
+}
