@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T10:43:00",
+        "branch": "release/implement-handler-4614",
+        "version": "1.55.6",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4984,
+        "type": "user",
+        "payload": "zNFXSiDJtvWpLmGKVlbMCRuqaUOIhnAo",
+        "priority": 2
+,
+        "status": "active"
+    }
+}
