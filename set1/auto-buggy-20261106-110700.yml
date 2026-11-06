@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 11:07:00
+version: '1.29'
+environment: production
+
+service:
+  name: vlzocsdq
+  port: 3564
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 48
+  retries: 3
+  quality: buggy
