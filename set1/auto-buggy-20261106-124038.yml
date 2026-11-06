@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 12:40:38
+version: '1.41'
+environment: development
+
+service:
+  name: lcaeivjo
+  port: 3733
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 45
+  retries: 4
+  quality: buggy
