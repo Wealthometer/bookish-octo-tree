@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 20:02:50
+version: '1.99'
+environment: development
+
+service:
+  name: xsqlgebd
+  port: 3541
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 43
+  retries: 2
+  quality: buggy
