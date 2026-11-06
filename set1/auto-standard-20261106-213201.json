@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T21:32:01",
+        "branch": "bugfix/optimize-api-4375",
+        "version": "1.33.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 1242,
+        "type": "user",
+        "payload": "eOYiwrdWpMFUGPyKzjSvLtoXJxHAamlu",
+        "priority": 4
+,
+        "status": "active"
+    }
+}
