@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 11:58:35
+version: '1.66'
+environment: production
+
+service:
+  name: vdthzxcg
+  port: 3998
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 2
+  quality: excellent
