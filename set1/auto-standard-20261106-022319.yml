@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 02:23:19
+version: '1.41'
+environment: development
+
+service:
+  name: zlvjmqbo
+  port: 3967
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 2
+  quality: standard
