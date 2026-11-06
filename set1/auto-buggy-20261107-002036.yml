@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 00:20:36
+version: '1.43'
+environment: staging
+
+service:
+  name: onpcgjbk
+  port: 3643
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 25
+  retries: 3
+  quality: buggy
