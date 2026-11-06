@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 00:30:07
+version: '1.5'
+environment: production
+
+service:
+  name: uvwrsjme
+  port: 3470
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 36
+  retries: 1
+  quality: standard
