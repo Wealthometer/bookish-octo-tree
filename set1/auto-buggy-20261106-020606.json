@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T02:06:06",
+        "branch": "bugfix/fix-api-6915",
+        "version": "1.91.1",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 4690,
+        "type": "user",
+        "payload": "uICEDZJQRrUnBapzeMlgNOtbojkKHVYf",
+        "priority": 3
+    }
+}
