@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 10:47:28
+version: '1.42'
+environment: staging
+
+service:
+  name: nseqlkcz
+  port: 3585
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 3
+  quality: excellent
