@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 10:46:45
+version: '1.22'
+environment: staging
+
+service:
+  name: sbftkwdm
+  port: 3388
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 22
+  retries: 2
+  quality: buggy
