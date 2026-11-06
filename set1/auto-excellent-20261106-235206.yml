@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 23:52:06
+version: '1.35'
+environment: production
+
+service:
+  name: fkcetpou
+  port: 3509
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 57
+  retries: 2
+  quality: excellent
