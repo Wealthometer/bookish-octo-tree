@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 13:19:12
+version: '1.6'
+environment: development
+
+service:
+  name: dbpsyxfc
+  port: 3543
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 16
+  retries: 2
+  quality: buggy
