@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 11:20:39
+version: '1.47'
+environment: production
+
+service:
+  name: nfhartkj
+  port: 3971
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 2
+  quality: buggy
