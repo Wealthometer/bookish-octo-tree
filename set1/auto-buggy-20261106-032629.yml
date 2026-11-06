@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 03:26:29
+version: '1.28'
+environment: development
+
+service:
+  name: jpsvhefk
+  port: 3431
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 4
+  quality: buggy
