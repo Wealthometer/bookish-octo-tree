@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 09:05:54
+version: '1.62'
+environment: staging
+
+service:
+  name: uhdvtjxw
+  port: 3198
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 4
+  quality: excellent
