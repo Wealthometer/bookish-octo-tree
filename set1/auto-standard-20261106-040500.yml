@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 04:05:00
+version: '1.9'
+environment: staging
+
+service:
+  name: nsexdyil
+  port: 3663
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 1
+  quality: standard
