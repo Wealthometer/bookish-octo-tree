@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 04:10:40
+version: '1.63'
+environment: staging
+
+service:
+  name: epqzwinj
+  port: 3799
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 13
+  retries: 3
+  quality: buggy
