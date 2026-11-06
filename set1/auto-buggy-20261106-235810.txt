@@ -1,0 +1,6 @@
+﻿[0] 23:58:10 - ktjrsq - OK
+[1] 23:58:10 - ojraflscvp - SKIPPED
+[2] 23:58:10 - dtpos - ERROR
+[3] 23:58:10 - ekchuls - PENDING
+[4] 23:58:10 - cgksh - COMPLETE
+[5] 23:58:10 - ftpwokia - OK
