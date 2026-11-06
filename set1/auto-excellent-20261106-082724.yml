@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 08:27:24
+version: '1.45'
+environment: production
+
+service:
+  name: wgxbpsvh
+  port: 3034
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 1
+  quality: excellent
