@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 03:06:23
+version: '1.10'
+environment: development
+
+service:
+  name: beuoipsf
+  port: 3375
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 4
+  quality: buggy
