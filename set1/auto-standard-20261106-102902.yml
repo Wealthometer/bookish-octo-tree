@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 10:29:02
+version: '1.78'
+environment: staging
+
+service:
+  name: zclihkbn
+  port: 3083
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 3
+  quality: standard
