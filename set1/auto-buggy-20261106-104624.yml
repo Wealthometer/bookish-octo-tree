@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 10:46:24
+version: '1.54'
+environment: production
+
+service:
+  name: rixghefs
+  port: 3776
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 3
+  quality: buggy
