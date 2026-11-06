@@ -1,0 +1,10 @@
+﻿[0] 21:47:00 - yvfrdlcaxq - OK
+[1] 21:47:00 - vfryl - PENDING
+[2] 21:47:00 - uyxgmbjokec - SKIPPED
+[3] 21:47:00 - xmqyzwt - OK
+[4] 21:47:00 - kwdhn - PENDING
+[5] 21:47:00 - ilargcxv - ERROR
+[6] 21:47:00 - jrpime - PENDING
+[7] 21:47:00 - etfygp - OK
+[8] 21:47:00 - fjvsg - PENDING
+[9] 21:47:00 - wbdsqoctyj - PENDING
