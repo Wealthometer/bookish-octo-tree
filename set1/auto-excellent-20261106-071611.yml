@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 07:16:11
+version: '1.32'
+environment: development
+
+service:
+  name: ovmizjbk
+  port: 3169
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 48
+  retries: 2
+  quality: excellent
