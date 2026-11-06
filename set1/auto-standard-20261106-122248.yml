@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 12:22:48
+version: '1.47'
+environment: production
+
+service:
+  name: lxmhzknw
+  port: 3834
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 20
+  retries: 1
+  quality: standard
