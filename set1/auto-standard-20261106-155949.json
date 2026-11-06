@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T15:59:49",
+        "branch": "bugfix/fix-service-4515",
+        "version": "1.89.7",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8697,
+        "type": "event",
+        "payload": "zfDrTsHJGQcwNWlpKkjCMqOIBhagynLb",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
