@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 05:22:24
+version: '1.77'
+environment: staging
+
+service:
+  name: rqezhwks
+  port: 3634
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 40
+  retries: 4
+  quality: buggy
