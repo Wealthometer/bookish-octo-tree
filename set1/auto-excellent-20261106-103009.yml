@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 10:30:09
+version: '1.99'
+environment: staging
+
+service:
+  name: ajwfvigu
+  port: 3166
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 3
+  quality: excellent
