@@ -1,0 +1,7 @@
+﻿[0] 16:27:13 - elzaosqy - PENDING
+[1] 16:27:13 - rufdoev - PENDING
+[2] 16:27:13 - jzrmvp - PENDING
+[3] 16:27:13 - pszied - SKIPPED
+[4] 16:27:13 - xaciozt - SKIPPED
+[5] 16:27:13 - idrxje - ERROR
+[6] 16:27:13 - jxvqu - COMPLETE
