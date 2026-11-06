@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 02:24:49
+version: '1.39'
+environment: development
+
+service:
+  name: fksqgpdl
+  port: 3504
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 36
+  retries: 3
+  quality: excellent
