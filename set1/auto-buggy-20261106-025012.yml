@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 02:50:12
+version: '1.14'
+environment: development
+
+service:
+  name: gyoesrbn
+  port: 3965
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 4
+  quality: buggy
