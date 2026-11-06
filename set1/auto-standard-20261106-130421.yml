@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 13:04:21
+version: '1.66'
+environment: development
+
+service:
+  name: cbgmvrzt
+  port: 3104
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 18
+  retries: 2
+  quality: standard
