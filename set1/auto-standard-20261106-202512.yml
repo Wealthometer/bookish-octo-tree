@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 20:25:12
+version: '1.56'
+environment: development
+
+service:
+  name: doenxjrk
+  port: 3523
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 3
+  quality: standard
