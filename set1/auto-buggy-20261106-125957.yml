@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 12:59:57
+version: '1.20'
+environment: development
+
+service:
+  name: wedsitqy
+  port: 3097
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 20
+  retries: 3
+  quality: buggy
