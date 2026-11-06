@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 12:34:13
+version: '1.56'
+environment: production
+
+service:
+  name: slgucxjq
+  port: 3711
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 16
+  retries: 3
+  quality: excellent
