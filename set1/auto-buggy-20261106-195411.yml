@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 19:54:11
+version: '1.42'
+environment: development
+
+service:
+  name: suqnhpar
+  port: 3278
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 3
+  quality: buggy
