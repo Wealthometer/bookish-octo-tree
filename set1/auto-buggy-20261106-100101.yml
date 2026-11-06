@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 10:01:01
+version: '1.14'
+environment: production
+
+service:
+  name: rulhaiqz
+  port: 3135
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 39
+  retries: 4
+  quality: buggy
