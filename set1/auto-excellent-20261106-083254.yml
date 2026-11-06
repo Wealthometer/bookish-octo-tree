@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 08:32:54
+version: '1.96'
+environment: staging
+
+service:
+  name: lmhopnir
+  port: 3221
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 56
+  retries: 3
+  quality: excellent
