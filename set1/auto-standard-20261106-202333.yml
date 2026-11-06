@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 20:23:33
+version: '1.14'
+environment: production
+
+service:
+  name: jrdaozfv
+  port: 3200
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 2
+  quality: standard
