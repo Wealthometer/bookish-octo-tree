@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 21:21:36
+version: '1.55'
+environment: production
+
+service:
+  name: ckhfjpuz
+  port: 3066
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 43
+  retries: 1
+  quality: excellent
