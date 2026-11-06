@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 20:15:02
+version: '1.33'
+environment: development
+
+service:
+  name: wtujyreo
+  port: 3054
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 1
+  quality: buggy
