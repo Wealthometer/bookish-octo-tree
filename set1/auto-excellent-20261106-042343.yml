@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 04:23:43
+version: '1.37'
+environment: production
+
+service:
+  name: hvzamwnr
+  port: 3501
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 2
+  quality: excellent
