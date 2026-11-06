@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 04:07:51
+version: '1.88'
+environment: staging
+
+service:
+  name: gdstfkpe
+  port: 3238
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 1
+  quality: excellent
