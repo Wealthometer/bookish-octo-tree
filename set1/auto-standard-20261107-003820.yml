@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 00:38:20
+version: '1.52'
+environment: production
+
+service:
+  name: tjlyrnbx
+  port: 3259
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 47
+  retries: 3
+  quality: standard
