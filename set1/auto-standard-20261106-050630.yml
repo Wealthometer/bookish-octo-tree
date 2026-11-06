@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 05:06:30
+version: '1.44'
+environment: production
+
+service:
+  name: pasfkegv
+  port: 3527
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 17
+  retries: 1
+  quality: standard
