@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 09:38:00
+version: '1.13'
+environment: production
+
+service:
+  name: tljzyfsm
+  port: 3826
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 2
+  quality: excellent
