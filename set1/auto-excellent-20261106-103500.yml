@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 10:35:00
+version: '1.89'
+environment: production
+
+service:
+  name: hklqxvnd
+  port: 3181
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 38
+  retries: 4
+  quality: excellent
