@@ -1,0 +1,5 @@
+﻿[0] 04:28:00 - jocfk - ERROR
+[1] 04:28:00 - pfytgkvwiad - COMPLETE
+[2] 04:28:00 - fvueyhzip - ERROR
+[3] 04:28:00 - zycqrpns - ERROR
+[4] 04:28:00 - wfxzhgquak - SKIPPED
