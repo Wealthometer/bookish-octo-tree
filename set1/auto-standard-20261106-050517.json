@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T05:05:17",
+        "branch": "release/implement-handler-5040",
+        "version": "1.77.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4622,
+        "type": "user",
+        "payload": "ZCDQVnquPHYkWbjioBmyGTfvIOdephAz",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
