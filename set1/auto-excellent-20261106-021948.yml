@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 02:19:48
+version: '1.64'
+environment: development
+
+service:
+  name: odxtgmrp
+  port: 3407
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 47
+  retries: 2
+  quality: excellent
