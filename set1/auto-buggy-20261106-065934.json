@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T06:59:34",
+        "branch": "hotfix/add-handler-4056",
+        "version": "1.38.3",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 5292,
+        "type": "user",
+        "payload": "GinUIkPSCRYNgvJXQVcpqEOHWsamMxZj",
+        "priority": 1
+    }
+}
