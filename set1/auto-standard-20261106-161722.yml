@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 16:17:22
+version: '1.11'
+environment: production
+
+service:
+  name: sgrymihc
+  port: 3109
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 54
+  retries: 1
+  quality: standard
