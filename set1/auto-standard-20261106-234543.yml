@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 23:45:43
+version: '1.49'
+environment: production
+
+service:
+  name: enzafdsk
+  port: 3948
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 3
+  quality: standard
