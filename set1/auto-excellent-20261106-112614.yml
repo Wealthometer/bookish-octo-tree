@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 11:26:14
+version: '1.17'
+environment: staging
+
+service:
+  name: fgalhspw
+  port: 3868
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 13
+  retries: 2
+  quality: excellent
