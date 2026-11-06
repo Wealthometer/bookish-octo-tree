@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 05:46:33
+version: '1.77'
+environment: staging
+
+service:
+  name: vchgolwx
+  port: 3815
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 46
+  retries: 1
+  quality: excellent
