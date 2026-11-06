@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 04:11:54
+version: '1.45'
+environment: production
+
+service:
+  name: ksbxyotj
+  port: 3201
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 3
+  quality: standard
