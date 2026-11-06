@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T10:35:40",
+        "branch": "chore/update-handler-4093",
+        "version": "1.53.9",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 5019,
+        "type": "user",
+        "payload": "EnTIMPClSjayXpOYNvhRgBxboiuZVUKJ",
+        "priority": 4
+    }
+}
