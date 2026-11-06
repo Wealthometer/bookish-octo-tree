@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 20:19:12
+version: '1.66'
+environment: production
+
+service:
+  name: dwfsaojn
+  port: 3028
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 4
+  quality: buggy
