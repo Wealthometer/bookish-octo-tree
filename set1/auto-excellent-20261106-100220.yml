@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 10:02:20
+version: '1.56'
+environment: development
+
+service:
+  name: dryvfinw
+  port: 3166
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 1
+  quality: excellent
