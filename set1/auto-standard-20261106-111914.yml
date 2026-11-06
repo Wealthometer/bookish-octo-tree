@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 11:19:14
+version: '1.50'
+environment: staging
+
+service:
+  name: cbsxpuqn
+  port: 3638
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 1
+  quality: standard
