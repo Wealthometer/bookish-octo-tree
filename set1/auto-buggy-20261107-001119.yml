@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 00:11:19
+version: '1.40'
+environment: staging
+
+service:
+  name: qdtbvcis
+  port: 3694
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 4
+  quality: buggy
