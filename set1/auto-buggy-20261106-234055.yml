@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 23:40:55
+version: '1.20'
+environment: development
+
+service:
+  name: zoucepbf
+  port: 3685
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 4
+  quality: buggy
