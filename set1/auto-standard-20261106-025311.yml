@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 02:53:11
+version: '1.41'
+environment: staging
+
+service:
+  name: xgmjndwf
+  port: 3319
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 3
+  quality: standard
