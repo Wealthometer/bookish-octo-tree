@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 08:51:45
+version: '1.47'
+environment: development
+
+service:
+  name: fjziwctd
+  port: 3740
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 57
+  retries: 3
+  quality: excellent
