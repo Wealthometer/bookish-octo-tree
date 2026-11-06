@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 21:59:23
+version: '1.57'
+environment: production
+
+service:
+  name: vwpukdqb
+  port: 3499
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 43
+  retries: 3
+  quality: buggy
