@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T06:29:09",
+        "branch": "release/add-module-5639",
+        "version": "1.7.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 510,
+        "type": "user",
+        "payload": "nCMmOJvxbazWuBXsQiVeFZGqEtlRyjAr",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
