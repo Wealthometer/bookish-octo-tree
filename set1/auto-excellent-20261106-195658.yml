@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 19:56:58
+version: '1.13'
+environment: production
+
+service:
+  name: eirbzuxg
+  port: 3115
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 2
+  quality: excellent
