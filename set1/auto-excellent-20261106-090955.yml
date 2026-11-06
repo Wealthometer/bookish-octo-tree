@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 09:09:55
+version: '1.71'
+environment: production
+
+service:
+  name: culemzhq
+  port: 3456
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 3
+  quality: excellent
