@@ -1,0 +1,8 @@
+﻿[0] 16:40:03 - zlobywnag - PENDING
+[1] 16:40:03 - puatnmr - PENDING
+[2] 16:40:03 - jdfirlwy - SKIPPED
+[3] 16:40:03 - yteuoi - OK
+[4] 16:40:03 - qibrhts - COMPLETE
+[5] 16:40:03 - jnhuvqfxlra - PENDING
+[6] 16:40:03 - mrqalnhyxv - PENDING
+[7] 16:40:03 - kucbxjlv - COMPLETE
