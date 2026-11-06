@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T23:50:31",
+        "branch": "bugfix/fix-handler-3596",
+        "version": "1.68.4",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 9014,
+        "type": "event",
+        "payload": "LECvVbQoJyIeUmcWxgRjYTHkDzZASOir",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
