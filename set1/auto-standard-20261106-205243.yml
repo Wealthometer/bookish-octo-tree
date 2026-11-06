@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 20:52:43
+version: '1.70'
+environment: production
+
+service:
+  name: pwguskqx
+  port: 3887
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 4
+  quality: standard
