@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 21:35:17
+version: '1.50'
+environment: staging
+
+service:
+  name: qclmvhyf
+  port: 3363
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 1
+  quality: standard
