@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 21:07:51
+version: '1.5'
+environment: staging
+
+service:
+  name: gsqiadcf
+  port: 3809
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 19
+  retries: 2
+  quality: excellent
