@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 10:40:59
+version: '1.24'
+environment: development
+
+service:
+  name: mjbxwlhi
+  port: 3618
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 11
+  retries: 2
+  quality: buggy
