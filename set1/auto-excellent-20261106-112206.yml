@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 11:22:06
+version: '1.62'
+environment: staging
+
+service:
+  name: hkorxpce
+  port: 3260
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 2
+  quality: excellent
