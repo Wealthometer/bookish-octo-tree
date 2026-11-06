@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 21:00:34
+version: '1.38'
+environment: staging
+
+service:
+  name: xybzevsa
+  port: 3206
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 1
+  quality: buggy
