@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 11:54:26
+version: '1.40'
+environment: production
+
+service:
+  name: skzlnvth
+  port: 3235
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 40
+  retries: 1
+  quality: standard
