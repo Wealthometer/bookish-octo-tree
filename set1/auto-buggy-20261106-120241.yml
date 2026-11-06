@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 12:02:41
+version: '1.96'
+environment: production
+
+service:
+  name: esqhfklo
+  port: 3193
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 18
+  retries: 1
+  quality: buggy
