@@ -1,0 +1,8 @@
+﻿[0] 10:10:23 - vhmdzktf - ERROR
+[1] 10:10:23 - wntovhe - ERROR
+[2] 10:10:23 - rmlxt - SKIPPED
+[3] 10:10:23 - tsizgf - COMPLETE
+[4] 10:10:23 - iwxyhpb - COMPLETE
+[5] 10:10:23 - aypwcdjmt - OK
+[6] 10:10:23 - xfaqkhvpn - PENDING
+[7] 10:10:23 - qimel - COMPLETE
