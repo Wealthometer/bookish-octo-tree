@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 09:50:14
+version: '1.65'
+environment: production
+
+service:
+  name: wsibyhme
+  port: 3700
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 3
+  quality: buggy
