@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T19:39:40",
+        "branch": "hotfix/fix-module-8866",
+        "version": "1.36.6",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4208,
+        "type": "system",
+        "payload": "WZvkVtKQADPducGqgaXbUJiwrmLjzpFy",
+        "priority": 2
+,
+        "status": "active"
+    }
+}
