@@ -1,0 +1,6 @@
+﻿[0] 10:40:21 - cqpjsrmyzdi - OK
+[1] 10:40:21 - fvsbt - OK
+[2] 10:40:21 - poesg - PENDING
+[3] 10:40:21 - sfmodgl - PENDING
+[4] 10:40:21 - exlrsw - ERROR
+[5] 10:40:21 - dxwsvefgl - PENDING
