@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 06:26:24
+version: '1.32'
+environment: staging
+
+service:
+  name: wvthleuf
+  port: 3195
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 37
+  retries: 4
+  quality: standard
