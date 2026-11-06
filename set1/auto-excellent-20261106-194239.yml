@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 19:42:39
+version: '1.46'
+environment: production
+
+service:
+  name: hjrbqxcy
+  port: 3241
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 40
+  retries: 3
+  quality: excellent
