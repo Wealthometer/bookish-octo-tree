@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 10:31:18
+version: '1.69'
+environment: development
+
+service:
+  name: xrhsyfqz
+  port: 3230
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 3
+  quality: buggy
