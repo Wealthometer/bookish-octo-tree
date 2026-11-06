@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 00:09:59
+version: '1.46'
+environment: production
+
+service:
+  name: xgkytswu
+  port: 3762
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 30
+  retries: 1
+  quality: standard
