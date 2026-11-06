@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 21:48:33
+version: '1.87'
+environment: development
+
+service:
+  name: viothcpn
+  port: 3113
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 37
+  retries: 4
+  quality: buggy
