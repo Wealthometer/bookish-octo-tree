@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-06 16:28:40
+version: '1.90'
+environment: staging
+
+service:
+  name: jngdtvuz
+  port: 3225
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 53
+  retries: 3
+  quality: buggy
