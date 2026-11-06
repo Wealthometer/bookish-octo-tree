@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 21:57:43
+version: '1.75'
+environment: production
+
+service:
+  name: gqcpyfbe
+  port: 3772
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 4
+  quality: excellent
