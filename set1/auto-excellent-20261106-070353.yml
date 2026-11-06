@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 07:03:53
+version: '1.54'
+environment: staging
+
+service:
+  name: pacydfjk
+  port: 3575
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 1
+  quality: excellent
