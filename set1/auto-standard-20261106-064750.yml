@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 06:47:50
+version: '1.28'
+environment: production
+
+service:
+  name: iaoqedxc
+  port: 3538
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 4
+  quality: standard
