@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 11:13:30
+version: '1.7'
+environment: development
+
+service:
+  name: pnmthacs
+  port: 3625
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 38
+  retries: 2
+  quality: standard
