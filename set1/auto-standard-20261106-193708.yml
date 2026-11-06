@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 19:37:08
+version: '1.84'
+environment: production
+
+service:
+  name: xztwbjfm
+  port: 3110
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 4
+  quality: standard
