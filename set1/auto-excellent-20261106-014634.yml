@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 01:46:34
+version: '1.70'
+environment: production
+
+service:
+  name: tpuedrlq
+  port: 3009
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 17
+  retries: 4
+  quality: excellent
