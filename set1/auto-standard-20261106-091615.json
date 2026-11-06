@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-06T09:16:15",
+        "branch": "feature/optimize-service-3490",
+        "version": "1.71.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 2606,
+        "type": "user",
+        "payload": "aeNPTZcwjKSyubUVEQqHIFkODApzRhXB",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
