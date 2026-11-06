@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-06 16:41:26
+version: '1.46'
+environment: production
+
+service:
+  name: cegkpint
+  port: 3386
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 2
+  quality: excellent
