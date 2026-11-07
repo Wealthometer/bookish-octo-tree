@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 19:48:42
+version: '1.28'
+environment: production
+
+service:
+  name: sptqvdzw
+  port: 3898
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 41
+  retries: 1
+  quality: excellent
