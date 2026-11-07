@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:05:39
+version: '1.19'
+environment: production
+
+service:
+  name: zlvjsucy
+  port: 3026
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 33
+  retries: 1
+  quality: buggy
