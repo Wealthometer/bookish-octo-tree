@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:20:38
+version: '1.5'
+environment: production
+
+service:
+  name: ergswmln
+  port: 3027
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 55
+  retries: 4
+  quality: excellent
