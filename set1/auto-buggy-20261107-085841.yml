@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 08:58:41
+version: '1.33'
+environment: development
+
+service:
+  name: qyzkhuen
+  port: 3062
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 54
+  retries: 4
+  quality: buggy
