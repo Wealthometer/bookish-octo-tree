@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T17:43:52",
+        "branch": "release/add-utils-6000",
+        "version": "1.24.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 2562,
+        "type": "user",
+        "payload": "kPoHYtzDrFLZxnSXwWjmhsBEGpfbNqiO",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
