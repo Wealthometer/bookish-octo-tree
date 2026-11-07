@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T21:20:49",
+        "branch": "refactor/implement-service-2982",
+        "version": "1.12.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4413,
+        "type": "user",
+        "payload": "hsXSIgnGFVdClkwEKqatDiPbeozZjrLN",
+        "priority": 0
+,
+        "status": "inactive"
+    }
+}
