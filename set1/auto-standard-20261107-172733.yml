@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:27:33
+version: '1.69'
+environment: development
+
+service:
+  name: zbfpeuci
+  port: 3795
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 56
+  retries: 1
+  quality: standard
