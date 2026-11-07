@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 12:33:29
+version: '1.83'
+environment: production
+
+service:
+  name: inqkprub
+  port: 3609
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 30
+  retries: 3
+  quality: standard
