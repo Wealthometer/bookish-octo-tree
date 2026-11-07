@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:19:50
+version: '1.75'
+environment: development
+
+service:
+  name: gflmwsba
+  port: 3265
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 12
+  retries: 2
+  quality: buggy
