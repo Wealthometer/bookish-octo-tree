@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T19:39:17",
+        "branch": "bugfix/update-handler-6130",
+        "version": "1.91.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 7493,
+        "type": "system",
+        "payload": "iDsvkeIybOQrNlZBJmMXHwcPSjxnLgEz",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
