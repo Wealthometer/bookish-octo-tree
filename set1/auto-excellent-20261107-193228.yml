@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 19:32:28
+version: '1.68'
+environment: staging
+
+service:
+  name: ekjqhoip
+  port: 3152
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 54
+  retries: 3
+  quality: excellent
