@@ -1,0 +1,8 @@
+﻿[0] 13:47:06 - oqykglx - ERROR
+[1] 13:47:06 - nsmjfuxrh - ERROR
+[2] 13:47:06 - ecdwargnoq - SKIPPED
+[3] 13:47:06 - gusldhavyt - ERROR
+[4] 13:47:06 - exzuhby - SKIPPED
+[5] 13:47:06 - kbonezsqvd - OK
+[6] 13:47:06 - ofqpczgrk - PENDING
+[7] 13:47:06 - bcmvg - ERROR
