@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 14:40:27
+version: '1.4'
+environment: staging
+
+service:
+  name: yuwqbnfa
+  port: 3969
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 26
+  retries: 4
+  quality: buggy
