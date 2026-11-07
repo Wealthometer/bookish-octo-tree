@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 16:20:18
+version: '1.38'
+environment: development
+
+service:
+  name: ekyfdcal
+  port: 3651
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 33
+  retries: 2
+  quality: buggy
