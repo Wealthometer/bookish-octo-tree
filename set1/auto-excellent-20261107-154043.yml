@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 15:40:43
+version: '1.85'
+environment: development
+
+service:
+  name: chkrtuep
+  port: 3766
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 19
+  retries: 1
+  quality: excellent
