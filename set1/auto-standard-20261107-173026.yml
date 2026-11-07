@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:30:26
+version: '1.8'
+environment: development
+
+service:
+  name: wxdvgotq
+  port: 3423
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 4
+  quality: standard
