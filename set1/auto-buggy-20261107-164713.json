@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T16:47:13",
+        "branch": "hotfix/fix-api-8683",
+        "version": "1.51.7",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 2565,
+        "type": "user",
+        "payload": "QMpiKYFxlqVjwbEJHATeyGUDgonLsItd",
+        "priority": 0
+    }
+}
