@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T19:47:19",
+        "branch": "feature/fix-service-4196",
+        "version": "1.8.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 9450,
+        "type": "user",
+        "payload": "HUReXJzcviCLPpujyGnAFbqDoKtVxSlW",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
