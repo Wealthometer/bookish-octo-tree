@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 16:59:41
+version: '1.62'
+environment: production
+
+service:
+  name: zkayqrgs
+  port: 3966
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 45
+  retries: 3
+  quality: excellent
