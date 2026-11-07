@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 12:24:40
+version: '1.56'
+environment: production
+
+service:
+  name: zupnsiab
+  port: 3374
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 19
+  retries: 3
+  quality: buggy
