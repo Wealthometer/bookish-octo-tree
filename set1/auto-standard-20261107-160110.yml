@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 16:01:10
+version: '1.61'
+environment: production
+
+service:
+  name: mxfqujio
+  port: 3875
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 17
+  retries: 1
+  quality: standard
