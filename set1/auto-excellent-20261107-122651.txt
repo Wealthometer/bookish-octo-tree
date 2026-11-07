@@ -1,0 +1,11 @@
+﻿[0] 12:26:51 - etaiudv - OK
+[1] 12:26:51 - zwyfsd - OK
+[2] 12:26:51 - cyrwvs - SKIPPED
+[3] 12:26:51 - ntfkjpisqe - PENDING
+[4] 12:26:51 - wlagq - SKIPPED
+[5] 12:26:51 - frhqc - SKIPPED
+[6] 12:26:51 - sbamdyjofx - PENDING
+[7] 12:26:51 - ruajsxepfo - OK
+[8] 12:26:51 - zlrpyqsuhna - OK
+[9] 12:26:51 - cxlpv - PENDING
+[10] 12:26:51 - itpws - ERROR
