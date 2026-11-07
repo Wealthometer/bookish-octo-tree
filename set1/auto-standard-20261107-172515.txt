@@ -1,0 +1,9 @@
+﻿[0] 17:25:15 - erxdmqcbly - OK
+[1] 17:25:15 - kxqognzwja - SKIPPED
+[2] 17:25:15 - eoyldiksuhw - OK
+[3] 17:25:15 - mfoljphur - ERROR
+[4] 17:25:15 - qjlhmzubse - PENDING
+[5] 17:25:15 - kwmgtar - ERROR
+[6] 17:25:15 - iksdu - PENDING
+[7] 17:25:15 - pxdghirw - ERROR
+[8] 17:25:15 - txyfcbnw - SKIPPED
