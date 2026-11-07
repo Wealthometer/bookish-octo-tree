@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:25:56
+version: '1.51'
+environment: development
+
+service:
+  name: ndutohmc
+  port: 3402
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 2
+  quality: standard
