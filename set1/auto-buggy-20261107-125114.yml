@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 12:51:14
+version: '1.62'
+environment: staging
+
+service:
+  name: ymcbdhlp
+  port: 3187
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 4
+  quality: buggy
