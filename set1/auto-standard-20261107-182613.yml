@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 18:26:13
+version: '1.18'
+environment: development
+
+service:
+  name: pnbtsfzu
+  port: 3978
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 3
+  quality: standard
