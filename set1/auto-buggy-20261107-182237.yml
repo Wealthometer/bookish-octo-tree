@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 18:22:37
+version: '1.14'
+environment: production
+
+service:
+  name: levitbqo
+  port: 3769
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 47
+  retries: 2
+  quality: buggy
