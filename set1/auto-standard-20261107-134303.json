@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T13:43:03",
+        "branch": "refactor/optimize-service-7229",
+        "version": "1.82.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 2649,
+        "type": "event",
+        "payload": "ZxoWcJEsMXphwOaGgmSTqjbPHzYAUlLd",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
