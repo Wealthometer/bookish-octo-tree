@@ -1,0 +1,10 @@
+﻿[0] 13:21:57 - awzfuj - OK
+[1] 13:21:57 - npvqt - OK
+[2] 13:21:57 - onslipghdj - SKIPPED
+[3] 13:21:57 - stluz - OK
+[4] 13:21:57 - swrfxa - OK
+[5] 13:21:57 - skvqgt - COMPLETE
+[6] 13:21:57 - ucjidysp - SKIPPED
+[7] 13:21:57 - jbzdp - SKIPPED
+[8] 13:21:57 - dhcszpwuqmk - OK
+[9] 13:21:57 - avdtfchk - ERROR
