@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:36:24
+version: '1.78'
+environment: production
+
+service:
+  name: scvfwzrn
+  port: 3875
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 3
+  quality: buggy
