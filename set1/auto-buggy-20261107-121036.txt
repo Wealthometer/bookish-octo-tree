@@ -1,0 +1,8 @@
+﻿[0] 12:10:36 - fdecthqyg - SKIPPED
+[1] 12:10:36 - zfshjg - OK
+[2] 12:10:36 - nylhambj - OK
+[3] 12:10:36 - tihpkwvxglu - ERROR
+[4] 12:10:36 - rodpejuwa - PENDING
+[5] 12:10:36 - iswadpzy - SKIPPED
+[6] 12:10:36 - bfziay - ERROR
+[7] 12:10:36 - jgcupiybf - SKIPPED
