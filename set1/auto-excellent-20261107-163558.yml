@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 16:35:58
+version: '1.92'
+environment: production
+
+service:
+  name: flhmkycp
+  port: 3621
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 37
+  retries: 1
+  quality: excellent
