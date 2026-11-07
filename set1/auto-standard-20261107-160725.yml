@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 16:07:25
+version: '1.51'
+environment: production
+
+service:
+  name: shavkozq
+  port: 3904
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 15
+  retries: 4
+  quality: standard
