@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:26:15
+version: '1.8'
+environment: development
+
+service:
+  name: emlrkiuv
+  port: 3960
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 37
+  retries: 2
+  quality: standard
