@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:04:43
+version: '1.18'
+environment: staging
+
+service:
+  name: ozncmywi
+  port: 3217
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 1
+  quality: excellent
