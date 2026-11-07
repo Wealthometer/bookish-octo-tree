@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 16:32:14
+version: '1.74'
+environment: staging
+
+service:
+  name: mwjphzeq
+  port: 3206
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 1
+  quality: excellent
