@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T19:31:09",
+        "branch": "hotfix/fix-config-2939",
+        "version": "1.17.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 6837,
+        "type": "metric",
+        "payload": "DBEPcsmVHpySegadnKMwrqUCLQlOuGib",
+        "priority": 2
+,
+        "status": "active"
+    }
+}
