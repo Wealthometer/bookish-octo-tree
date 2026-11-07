@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 15:29:50
+version: '1.30'
+environment: development
+
+service:
+  name: yejshgkd
+  port: 3385
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 2
+  quality: standard
