@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 14:05:47
+version: '1.38'
+environment: production
+
+service:
+  name: sepnbdcq
+  port: 3276
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 48
+  retries: 2
+  quality: excellent
