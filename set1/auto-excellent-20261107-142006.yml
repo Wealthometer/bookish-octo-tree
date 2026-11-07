@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 14:20:06
+version: '1.69'
+environment: staging
+
+service:
+  name: eikyvzsw
+  port: 3309
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 4
+  quality: excellent
