@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:01:32
+version: '1.46'
+environment: development
+
+service:
+  name: geypfmvj
+  port: 3369
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 23
+  retries: 3
+  quality: buggy
