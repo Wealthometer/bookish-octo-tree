@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 16:02:23
+version: '1.29'
+environment: production
+
+service:
+  name: ckrnjlyq
+  port: 3342
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 2
+  quality: buggy
