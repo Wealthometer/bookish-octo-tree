@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 19:29:48
+version: '1.65'
+environment: production
+
+service:
+  name: ikyvhpxl
+  port: 3412
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 21
+  retries: 4
+  quality: buggy
