@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:11:43
+version: '1.26'
+environment: production
+
+service:
+  name: vrucxzdt
+  port: 3746
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 23
+  retries: 1
+  quality: buggy
