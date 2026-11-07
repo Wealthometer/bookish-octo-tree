@@ -1,0 +1,7 @@
+﻿[0] 15:55:10 - jwyckg - OK
+[1] 15:55:10 - mhwjgftudie - OK
+[2] 15:55:10 - fzjxb - COMPLETE
+[3] 15:55:10 - qwfahoz - SKIPPED
+[4] 15:55:10 - czftuan - ERROR
+[5] 15:55:10 - nxoputrb - COMPLETE
+[6] 15:55:10 - nrmkbqwx - SKIPPED
