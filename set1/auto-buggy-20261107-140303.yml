@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 14:03:03
+version: '1.67'
+environment: development
+
+service:
+  name: tyckrdna
+  port: 3557
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 55
+  retries: 1
+  quality: buggy
