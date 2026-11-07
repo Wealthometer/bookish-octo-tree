@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 13:52:44
+version: '1.19'
+environment: development
+
+service:
+  name: itrsmcwj
+  port: 3567
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 3
+  quality: buggy
