@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 19:25:29
+version: '1.28'
+environment: development
+
+service:
+  name: wqobjufv
+  port: 3544
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 2
+  quality: buggy
