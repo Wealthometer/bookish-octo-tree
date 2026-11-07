@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T16:11:14",
+        "branch": "release/optimize-config-4245",
+        "version": "1.83.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8032,
+        "type": "user",
+        "payload": "QDSlfvpHbetTGWEcNKAiRdsPgjCoUOka",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
