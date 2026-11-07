@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 19:37:55
+version: '1.9'
+environment: development
+
+service:
+  name: cesdbwjr
+  port: 3799
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 37
+  retries: 4
+  quality: buggy
