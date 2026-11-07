@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:13:32
+version: '1.47'
+environment: production
+
+service:
+  name: mwungcky
+  port: 3129
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 2
+  quality: buggy
