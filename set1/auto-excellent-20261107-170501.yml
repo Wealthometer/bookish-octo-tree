@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:05:01
+version: '1.45'
+environment: development
+
+service:
+  name: yjimbkqh
+  port: 3467
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 35
+  retries: 4
+  quality: excellent
