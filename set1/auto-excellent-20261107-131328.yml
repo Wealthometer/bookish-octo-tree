@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 13:13:28
+version: '1.78'
+environment: production
+
+service:
+  name: kvcjbpwy
+  port: 3436
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 1
+  quality: excellent
