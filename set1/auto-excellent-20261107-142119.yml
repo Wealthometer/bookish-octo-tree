@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 14:21:19
+version: '1.48'
+environment: staging
+
+service:
+  name: mkitpqnl
+  port: 3024
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 21
+  retries: 3
+  quality: excellent
