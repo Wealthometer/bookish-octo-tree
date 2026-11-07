@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 19:36:39
+version: '1.63'
+environment: production
+
+service:
+  name: hzpgbrux
+  port: 3089
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 4
+  quality: buggy
