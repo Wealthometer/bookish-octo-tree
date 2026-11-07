@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 09:00:00
+version: '1.86'
+environment: production
+
+service:
+  name: xfmvyano
+  port: 3663
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 4
+  quality: buggy
