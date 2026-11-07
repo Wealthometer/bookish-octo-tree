@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 01:13:58
+version: '1.15'
+environment: production
+
+service:
+  name: nmzgleju
+  port: 3663
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 3
+  quality: standard
