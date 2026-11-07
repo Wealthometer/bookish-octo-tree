@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 15:10:56
+version: '1.94'
+environment: staging
+
+service:
+  name: grhzsaku
+  port: 3535
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 3
+  quality: buggy
