@@ -1,0 +1,5 @@
+﻿[0] 12:02:33 - vcetasf - OK
+[1] 12:02:33 - usbthijad - SKIPPED
+[2] 12:02:33 - gqznjclkh - ERROR
+[3] 12:02:33 - owhqikx - ERROR
+[4] 12:02:33 - rlcoa - SKIPPED
