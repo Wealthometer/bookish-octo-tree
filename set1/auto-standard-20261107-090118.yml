@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 09:01:18
+version: '1.70'
+environment: development
+
+service:
+  name: ftjicyvg
+  port: 3217
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 1
+  quality: standard
