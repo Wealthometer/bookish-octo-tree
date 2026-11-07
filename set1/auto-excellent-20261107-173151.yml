@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:31:51
+version: '1.40'
+environment: staging
+
+service:
+  name: blgdcany
+  port: 3991
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 3
+  quality: excellent
