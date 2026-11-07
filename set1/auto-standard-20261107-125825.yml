@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 12:58:25
+version: '1.51'
+environment: development
+
+service:
+  name: ofbzymnu
+  port: 3346
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 2
+  quality: standard
