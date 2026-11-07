@@ -1,0 +1,6 @@
+﻿[0] 16:55:23 - bgwhzituyc - OK
+[1] 16:55:23 - casdkxle - OK
+[2] 16:55:23 - vcdegrb - ERROR
+[3] 16:55:23 - vtdmicsb - PENDING
+[4] 16:55:23 - hsnkfv - SKIPPED
+[5] 16:55:23 - sdtphnzfxr - COMPLETE
