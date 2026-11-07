@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 12:43:53
+version: '1.64'
+environment: staging
+
+service:
+  name: ubwyzdsi
+  port: 3955
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 45
+  retries: 1
+  quality: standard
