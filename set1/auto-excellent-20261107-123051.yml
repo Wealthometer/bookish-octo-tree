@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 12:30:51
+version: '1.23'
+environment: development
+
+service:
+  name: hgzejcnr
+  port: 3042
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 47
+  retries: 4
+  quality: excellent
