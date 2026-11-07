@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 17:06:00
+version: '1.15'
+environment: production
+
+service:
+  name: qjboruel
+  port: 3242
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 26
+  retries: 4
+  quality: excellent
