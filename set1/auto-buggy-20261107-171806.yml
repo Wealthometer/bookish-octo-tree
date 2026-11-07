@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:18:06
+version: '1.99'
+environment: production
+
+service:
+  name: epnvztgr
+  port: 3768
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 2
+  quality: buggy
