@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 17:08:58
+version: '1.62'
+environment: production
+
+service:
+  name: gnaocdql
+  port: 3086
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 42
+  retries: 1
+  quality: buggy
