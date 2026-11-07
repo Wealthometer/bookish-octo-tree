@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-07T14:23:59",
+        "branch": "chore/add-config-5920",
+        "version": "1.65.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 1970,
+        "type": "user",
+        "payload": "GzTskugIZEnrfXedmxyljRhBFANKqUQi",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
