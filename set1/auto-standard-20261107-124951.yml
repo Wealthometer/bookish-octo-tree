@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 12:49:51
+version: '1.78'
+environment: development
+
+service:
+  name: usnbcmzp
+  port: 3941
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 1
+  quality: standard
