@@ -1,0 +1,12 @@
+﻿[0] 12:45:09 - qapkdtumj - OK
+[1] 12:45:09 - qicoa - SKIPPED
+[2] 12:45:09 - eazfqyorhbt - ERROR
+[3] 12:45:09 - lahivrmo - OK
+[4] 12:45:09 - loytaesh - ERROR
+[5] 12:45:09 - bigtl - SKIPPED
+[6] 12:45:09 - fdorw - ERROR
+[7] 12:45:09 - upfmw - SKIPPED
+[8] 12:45:09 - rykhnusi - SKIPPED
+[9] 12:45:09 - doxkvzjmnpy - SKIPPED
+[10] 12:45:09 - bcedngmpis - ERROR
+[11] 12:45:09 - ycenwgvolzx - SKIPPED
