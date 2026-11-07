@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-07 15:16:39
+version: '1.49'
+environment: development
+
+service:
+  name: uazbicwf
+  port: 3130
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 59
+  retries: 3
+  quality: standard
