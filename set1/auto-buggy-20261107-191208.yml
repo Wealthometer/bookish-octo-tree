@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-07 19:12:08
+version: '1.15'
+environment: staging
+
+service:
+  name: sfpogkqh
+  port: 3655
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 4
+  quality: buggy
