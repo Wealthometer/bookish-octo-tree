@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-08T12:32:05",
+        "branch": "bugfix/fix-service-3798",
+        "version": "1.83.8",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 5339,
+        "type": "user",
+        "payload": "fntsHXxAcPOGNZRIUhSuveqdbMoBKkLp",
+        "priority": 0
+    }
+}
