@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-08 14:15:21
+version: '1.96'
+environment: development
+
+service:
+  name: jvdwpgen
+  port: 3856
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 2
+  quality: standard
