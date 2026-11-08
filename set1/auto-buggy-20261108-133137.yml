@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-08 13:31:37
+version: '1.61'
+environment: development
+
+service:
+  name: dyjugzwe
+  port: 3901
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 2
+  quality: buggy
