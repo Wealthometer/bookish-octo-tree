@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-08 14:06:46
+version: '1.69'
+environment: production
+
+service:
+  name: oljkdbtc
+  port: 3979
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 2
+  quality: excellent
