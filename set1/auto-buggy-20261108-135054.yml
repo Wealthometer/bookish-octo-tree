@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-08 13:50:54
+version: '1.2'
+environment: staging
+
+service:
+  name: bmeskfqr
+  port: 3119
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 4
+  quality: buggy
