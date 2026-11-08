@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-08 14:08:04
+version: '1.52'
+environment: development
+
+service:
+  name: ltfdewhk
+  port: 3101
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 28
+  retries: 2
+  quality: excellent
