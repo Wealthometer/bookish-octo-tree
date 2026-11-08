@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-08 14:03:44
+version: '1.16'
+environment: staging
+
+service:
+  name: ctdxszpm
+  port: 3890
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 56
+  retries: 4
+  quality: excellent
