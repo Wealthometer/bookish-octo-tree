@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-08 13:53:59
+version: '1.59'
+environment: staging
+
+service:
+  name: xuchgtfl
+  port: 3120
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 41
+  retries: 1
+  quality: buggy
