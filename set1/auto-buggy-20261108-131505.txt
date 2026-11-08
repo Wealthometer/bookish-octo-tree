@@ -1,0 +1,7 @@
+﻿[0] 13:15:05 - rvkandq - ERROR
+[1] 13:15:05 - edljcxgsorh - ERROR
+[2] 13:15:05 - nztaqowk - SKIPPED
+[3] 13:15:05 - urlmvpaigt - COMPLETE
+[4] 13:15:05 - qkafnygubx - SKIPPED
+[5] 13:15:05 - dolibcyzq - OK
+[6] 13:15:05 - rsavw - SKIPPED
