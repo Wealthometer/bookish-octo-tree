@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-08 13:34:32
+version: '1.90'
+environment: production
+
+service:
+  name: thvzycqd
+  port: 3913
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 13
+  retries: 4
+  quality: buggy
