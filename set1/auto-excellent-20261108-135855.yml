@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-08 13:58:55
+version: '1.68'
+environment: production
+
+service:
+  name: phawcefs
+  port: 3057
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 1
+  quality: excellent
