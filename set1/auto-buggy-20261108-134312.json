@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-08T13:43:12",
+        "branch": "hotfix/add-handler-8656",
+        "version": "1.18.5",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 5464,
+        "type": "event",
+        "payload": "keDgQJXbZWqaTKPrEBIvNutiMwhYxHlc",
+        "priority": 1
+    }
+}
