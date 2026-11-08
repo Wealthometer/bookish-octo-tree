@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-08 07:44:11
+version: '1.35'
+environment: staging
+
+service:
+  name: qfvrausp
+  port: 3334
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 10
+  retries: 1
+  quality: standard
