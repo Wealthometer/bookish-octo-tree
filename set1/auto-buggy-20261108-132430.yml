@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-08 13:24:31
+version: '1.61'
+environment: staging
+
+service:
+  name: qsivtxnz
+  port: 3819
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 21
+  retries: 3
+  quality: buggy
