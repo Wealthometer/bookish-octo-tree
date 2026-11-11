@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-03 23:12:29
+version: '1.42'
+environment: staging
+
+service:
+  name: nlyicohr
+  port: 3299
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 10
+  retries: 1
+  quality: excellent
