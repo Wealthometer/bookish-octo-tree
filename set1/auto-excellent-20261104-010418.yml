@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-04 01:04:18
+version: '1.45'
+environment: staging
+
+service:
+  name: lbzmnkfv
+  port: 3525
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 49
+  retries: 3
+  quality: excellent
