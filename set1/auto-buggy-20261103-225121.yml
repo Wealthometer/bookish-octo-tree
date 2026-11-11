@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-03 22:51:21
+version: '1.61'
+environment: production
+
+service:
+  name: shldrcgz
+  port: 3963
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 3
+  quality: buggy
