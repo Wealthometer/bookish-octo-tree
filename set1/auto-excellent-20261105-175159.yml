@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-05 17:51:59
+version: '1.8'
+environment: development
+
+service:
+  name: lqbawihe
+  port: 3555
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 19
+  retries: 3
+  quality: excellent
