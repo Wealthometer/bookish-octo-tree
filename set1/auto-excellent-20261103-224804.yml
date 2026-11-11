@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-03 22:48:04
+version: '1.36'
+environment: development
+
+service:
+  name: aqiypjrx
+  port: 3013
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 15
+  retries: 2
+  quality: excellent
