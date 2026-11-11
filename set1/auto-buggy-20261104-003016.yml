@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-04 00:30:16
+version: '1.27'
+environment: staging
+
+service:
+  name: feamrwoz
+  port: 3465
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 34
+  retries: 3
+  quality: buggy
