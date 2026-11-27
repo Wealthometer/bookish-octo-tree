@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 11:07:52
+version: '1.25'
+environment: production
+
+service:
+  name: uvytmoig
+  port: 3380
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 3
+  quality: buggy
