@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 20:10:49
+version: '1.12'
+environment: development
+
+service:
+  name: mwrncpgl
+  port: 3535
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 38
+  retries: 4
+  quality: excellent
