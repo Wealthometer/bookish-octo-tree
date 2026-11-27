@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 11:02:59
+version: '1.16'
+environment: development
+
+service:
+  name: dthomagj
+  port: 3675
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 46
+  retries: 3
+  quality: standard
