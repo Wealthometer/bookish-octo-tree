@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 11:56:26
+version: '1.85'
+environment: production
+
+service:
+  name: qkotybir
+  port: 3159
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 4
+  quality: standard
