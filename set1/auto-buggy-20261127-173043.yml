@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 17:30:43
+version: '1.78'
+environment: production
+
+service:
+  name: psogbejw
+  port: 3881
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 1
+  quality: buggy
