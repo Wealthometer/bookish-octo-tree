@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T12:11:16",
+        "branch": "feature/fix-service-5610",
+        "version": "1.97.3",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 5988,
+        "type": "event",
+        "payload": "PjcHtUryMRQCDiZVWOpJoaunXvTFIxsw",
+        "priority": 2
+    }
+}
