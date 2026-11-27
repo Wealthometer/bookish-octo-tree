@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T21:00:21",
+        "branch": "chore/update-module-3083",
+        "version": "1.92.8",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 3610,
+        "type": "user",
+        "payload": "KrewVkjaFAfBEvRpSMGqlnmQOHJIXYoi",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
