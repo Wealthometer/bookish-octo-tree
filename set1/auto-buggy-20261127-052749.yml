@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 05:27:49
+version: '1.10'
+environment: development
+
+service:
+  name: wjmzfvpl
+  port: 3990
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 16
+  retries: 2
+  quality: buggy
