@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T05:54:16",
+        "branch": "release/update-utils-3553",
+        "version": "1.36.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 1110,
+        "type": "user",
+        "payload": "IocYUDZrstJHVkKzxhBSQlXagCenwbEf",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
