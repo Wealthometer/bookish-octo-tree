@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 22:04:05
+version: '1.54'
+environment: development
+
+service:
+  name: lnfzohsv
+  port: 3428
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 2
+  quality: buggy
