@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-28T00:55:12",
+        "branch": "hotfix/implement-api-6242",
+        "version": "1.90.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5370,
+        "type": "event",
+        "payload": "LGBTklnOYxzaQFVZurRAsUcJmviftoCN",
+        "priority": 0
+,
+        "status": "inactive"
+    }
+}
