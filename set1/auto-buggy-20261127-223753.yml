@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 22:37:53
+version: '1.88'
+environment: staging
+
+service:
+  name: gpksxzmy
+  port: 3575
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 50
+  retries: 2
+  quality: buggy
