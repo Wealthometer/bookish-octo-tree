@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 05:49:15
+version: '1.23'
+environment: staging
+
+service:
+  name: ukwtpqxn
+  port: 3260
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 35
+  retries: 3
+  quality: standard
