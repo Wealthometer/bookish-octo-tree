@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 23:06:22
+version: '1.60'
+environment: production
+
+service:
+  name: jfziamud
+  port: 3728
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 1
+  quality: buggy
