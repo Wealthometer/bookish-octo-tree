@@ -1,0 +1,7 @@
+﻿[0] 12:59:45 - hpxfui - PENDING
+[1] 12:59:45 - ezakrxw - OK
+[2] 12:59:45 - ydjbnquvpm - OK
+[3] 12:59:45 - soiqvdnz - SKIPPED
+[4] 12:59:45 - mrklqf - ERROR
+[5] 12:59:45 - bvfcdsk - ERROR
+[6] 12:59:45 - pigatfw - OK
