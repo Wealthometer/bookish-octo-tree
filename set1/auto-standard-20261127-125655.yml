@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 12:56:55
+version: '1.31'
+environment: production
+
+service:
+  name: ajnmpixt
+  port: 3888
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 59
+  retries: 4
+  quality: standard
