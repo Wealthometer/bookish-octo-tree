@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 18:49:44
+version: '1.29'
+environment: production
+
+service:
+  name: tcfjuxde
+  port: 3796
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 57
+  retries: 2
+  quality: excellent
