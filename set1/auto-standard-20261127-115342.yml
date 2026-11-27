@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 11:53:42
+version: '1.46'
+environment: development
+
+service:
+  name: txyvfonb
+  port: 3090
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 19
+  retries: 1
+  quality: standard
