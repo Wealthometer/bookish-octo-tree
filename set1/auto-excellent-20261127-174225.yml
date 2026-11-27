@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 17:42:25
+version: '1.77'
+environment: development
+
+service:
+  name: gqofyhnb
+  port: 3240
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 20
+  retries: 4
+  quality: excellent
