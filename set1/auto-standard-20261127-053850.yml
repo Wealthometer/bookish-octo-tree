@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 05:38:50
+version: '1.99'
+environment: development
+
+service:
+  name: fmvpkyhs
+  port: 3644
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 2
+  quality: standard
