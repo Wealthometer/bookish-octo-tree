@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T17:33:44",
+        "branch": "chore/update-api-7647",
+        "version": "1.82.9",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 3891,
+        "type": "event",
+        "payload": "vMluJgHDPKGqmitWZdyNTSLRXCBkxInV",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
