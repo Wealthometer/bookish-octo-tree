@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T12:30:05",
+        "branch": "release/fix-api-7250",
+        "version": "1.20.5",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 4605,
+        "type": "system",
+        "payload": "nzUWmHNsSCiaItovlFJTLueZprdjKGxb",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
