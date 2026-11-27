@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 17:15:34
+version: '1.9'
+environment: development
+
+service:
+  name: blfixwje
+  port: 3250
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 3
+  quality: buggy
