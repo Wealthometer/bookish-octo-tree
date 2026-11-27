@@ -1,0 +1,7 @@
+﻿[0] 13:32:46 - djpsxlgyhc - OK
+[1] 13:32:46 - flyigb - ERROR
+[2] 13:32:46 - iknqzhs - SKIPPED
+[3] 13:32:46 - ecgjo - OK
+[4] 13:32:46 - lnecytxspa - SKIPPED
+[5] 13:32:46 - uacqgfxo - OK
+[6] 13:32:46 - kravmq - ERROR
