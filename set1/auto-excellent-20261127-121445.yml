@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 12:14:45
+version: '1.42'
+environment: development
+
+service:
+  name: muvofksp
+  port: 3430
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 48
+  retries: 2
+  quality: excellent
