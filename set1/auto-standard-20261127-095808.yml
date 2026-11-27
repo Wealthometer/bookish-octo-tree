@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 09:58:08
+version: '1.34'
+environment: staging
+
+service:
+  name: nyxchikv
+  port: 3891
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 19
+  retries: 1
+  quality: standard
