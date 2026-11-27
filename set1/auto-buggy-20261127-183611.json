@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T18:36:11",
+        "branch": "chore/fix-config-4942",
+        "version": "1.24.6",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 1251,
+        "type": "user",
+        "payload": "wLWOVsKQtYSIDiFCgbdrzypAjvkJRZNq",
+        "priority": 3
+    }
+}
