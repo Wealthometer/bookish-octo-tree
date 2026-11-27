@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-27 11:52:25
+version: '1.37'
+environment: production
+
+service:
+  name: jdoxgtbh
+  port: 3743
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 3
+  quality: excellent
