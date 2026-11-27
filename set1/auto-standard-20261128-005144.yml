@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-28 00:51:44
+version: '1.16'
+environment: production
+
+service:
+  name: lyxatdin
+  port: 3124
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 3
+  quality: standard
