@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T20:48:57",
+        "branch": "feature/fix-utils-2011",
+        "version": "1.4.6",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 109,
+        "type": "metric",
+        "payload": "HtXOVMxjzQgNLpbkcFBUoudmwTyfCRDa",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
