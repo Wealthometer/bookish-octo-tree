@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-27T21:15:21",
+        "branch": "refactor/add-api-4009",
+        "version": "1.78.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 7885,
+        "type": "user",
+        "payload": "SduLDMZwgYrEoyQNPmTJpOsUhctjbFKv",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
