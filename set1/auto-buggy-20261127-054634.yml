@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-27 05:46:34
+version: '1.94'
+environment: development
+
+service:
+  name: kphwlxmd
+  port: 3727
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 16
+  retries: 4
+  quality: buggy
