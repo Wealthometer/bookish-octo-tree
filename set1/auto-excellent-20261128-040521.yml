@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-28 04:05:21
+version: '1.55'
+environment: production
+
+service:
+  name: yohxaecu
+  port: 3060
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 45
+  retries: 1
+  quality: excellent
