@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-28 01:18:20
+version: '1.63'
+environment: development
+
+service:
+  name: oirmcnwy
+  port: 3428
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 45
+  retries: 4
+  quality: standard
