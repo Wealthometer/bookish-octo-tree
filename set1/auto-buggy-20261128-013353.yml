@@ -1,0 +1,15 @@
+﻿# Generated: 2026-11-28 01:33:53
+version: '1.99'
+environment: staging
+
+service:
+  name: cxwduojp
+  port: 3789
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 20
+  retries: 4
+  quality: buggy
