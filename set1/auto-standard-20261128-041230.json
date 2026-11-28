@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-11-28T04:12:30",
+        "branch": "feature/add-api-1088",
+        "version": "1.28.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8902,
+        "type": "event",
+        "payload": "NYsGjDTIomOwkECqKgzSydVBJrPXpvcM",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
