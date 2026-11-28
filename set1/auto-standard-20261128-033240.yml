@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-28 03:32:40
+version: '1.71'
+environment: staging
+
+service:
+  name: ulrtyomw
+  port: 3437
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 26
+  retries: 4
+  quality: standard
