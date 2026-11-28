@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-28 03:35:49
+version: '1.42'
+environment: production
+
+service:
+  name: qmfbzprs
+  port: 3486
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 4
+  quality: standard
