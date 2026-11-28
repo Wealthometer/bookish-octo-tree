@@ -1,0 +1,14 @@
+﻿# Generated: 2026-11-28 03:18:34
+version: '1.14'
+environment: development
+
+service:
+  name: jvsrynau
+  port: 3657
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 4
+  quality: excellent
